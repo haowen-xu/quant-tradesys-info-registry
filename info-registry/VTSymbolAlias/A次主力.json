@@ -1,0 +1,301 @@
+{
+  "name": "A次主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "A1509.DCE"
+    },
+    {
+      "startDate": "2015-04-03",
+      "vtSymbol": "A1505.DCE"
+    },
+    {
+      "startDate": "2015-04-27",
+      "vtSymbol": "A1601.DCE"
+    },
+    {
+      "startDate": "2015-04-28",
+      "vtSymbol": "A1505.DCE"
+    },
+    {
+      "startDate": "2015-04-29",
+      "vtSymbol": "A1601.DCE"
+    },
+    {
+      "startDate": "2015-07-14",
+      "vtSymbol": "A1509.DCE"
+    },
+    {
+      "startDate": "2015-08-18",
+      "vtSymbol": "A1605.DCE"
+    },
+    {
+      "startDate": "2015-11-16",
+      "vtSymbol": "A1601.DCE"
+    },
+    {
+      "startDate": "2015-12-04",
+      "vtSymbol": "A1609.DCE"
+    },
+    {
+      "startDate": "2015-12-07",
+      "vtSymbol": "A1601.DCE"
+    },
+    {
+      "startDate": "2015-12-11",
+      "vtSymbol": "A1609.DCE"
+    },
+    {
+      "startDate": "2015-12-14",
+      "vtSymbol": "A1601.DCE"
+    },
+    {
+      "startDate": "2015-12-16",
+      "vtSymbol": "A1609.DCE"
+    },
+    {
+      "startDate": "2016-01-04",
+      "vtSymbol": "A1603.DCE"
+    },
+    {
+      "startDate": "2016-01-05",
+      "vtSymbol": "A1609.DCE"
+    },
+    {
+      "startDate": "2016-03-15",
+      "vtSymbol": "A1605.DCE"
+    },
+    {
+      "startDate": "2016-03-28",
+      "vtSymbol": "A1701.DCE"
+    },
+    {
+      "startDate": "2016-07-21",
+      "vtSymbol": "A1609.DCE"
+    },
+    {
+      "startDate": "2016-08-24",
+      "vtSymbol": "A1705.DCE"
+    },
+    {
+      "startDate": "2016-12-02",
+      "vtSymbol": "A1701.DCE"
+    },
+    {
+      "startDate": "2016-12-23",
+      "vtSymbol": "A1709.DCE"
+    },
+    {
+      "startDate": "2017-03-30",
+      "vtSymbol": "A1705.DCE"
+    },
+    {
+      "startDate": "2017-05-02",
+      "vtSymbol": "A1801.DCE"
+    },
+    {
+      "startDate": "2017-08-08",
+      "vtSymbol": "A1709.DCE"
+    },
+    {
+      "startDate": "2017-09-01",
+      "vtSymbol": "A1805.DCE"
+    },
+    {
+      "startDate": "2017-12-12",
+      "vtSymbol": "A1801.DCE"
+    },
+    {
+      "startDate": "2018-01-02",
+      "vtSymbol": "A1803.DCE"
+    },
+    {
+      "startDate": "2018-01-03",
+      "vtSymbol": "A1809.DCE"
+    },
+    {
+      "startDate": "2018-01-09",
+      "vtSymbol": "A1803.DCE"
+    },
+    {
+      "startDate": "2018-01-12",
+      "vtSymbol": "A1809.DCE"
+    },
+    {
+      "startDate": "2018-04-10",
+      "vtSymbol": "A1805.DCE"
+    },
+    {
+      "startDate": "2018-05-02",
+      "vtSymbol": "A1901.DCE"
+    },
+    {
+      "startDate": "2018-08-02",
+      "vtSymbol": "A1809.DCE"
+    },
+    {
+      "startDate": "2018-08-29",
+      "vtSymbol": "A1905.DCE"
+    },
+    {
+      "startDate": "2018-12-24",
+      "vtSymbol": "A1901.DCE"
+    },
+    {
+      "startDate": "2019-01-02",
+      "vtSymbol": "A1909.DCE"
+    },
+    {
+      "startDate": "2019-04-23",
+      "vtSymbol": "A1905.DCE"
+    },
+    {
+      "startDate": "2019-05-06",
+      "vtSymbol": "A2001.DCE"
+    },
+    {
+      "startDate": "2019-08-16",
+      "vtSymbol": "A1909.DCE"
+    },
+    {
+      "startDate": "2019-08-23",
+      "vtSymbol": "A2005.DCE"
+    },
+    {
+      "startDate": "2019-12-05",
+      "vtSymbol": "A2001.DCE"
+    },
+    {
+      "startDate": "2020-01-02",
+      "vtSymbol": "A2009.DCE"
+    },
+    {
+      "startDate": "2020-04-09",
+      "vtSymbol": "A2005.DCE"
+    },
+    {
+      "startDate": "2020-05-06",
+      "vtSymbol": "A2101.DCE"
+    },
+    {
+      "startDate": "2020-08-19",
+      "vtSymbol": "A2009.DCE"
+    },
+    {
+      "startDate": "2020-08-28",
+      "vtSymbol": "A2011.DCE"
+    },
+    {
+      "startDate": "2020-09-07",
+      "vtSymbol": "A2103.DCE"
+    },
+    {
+      "startDate": "2020-09-08",
+      "vtSymbol": "A2105.DCE"
+    },
+    {
+      "startDate": "2020-12-18",
+      "vtSymbol": "A2101.DCE"
+    },
+    {
+      "startDate": "2020-12-29",
+      "vtSymbol": "A2103.DCE"
+    },
+    {
+      "startDate": "2021-02-02",
+      "vtSymbol": "A2109.DCE"
+    },
+    {
+      "startDate": "2021-02-26",
+      "vtSymbol": "A2111.DCE"
+    },
+    {
+      "startDate": "2021-03-04",
+      "vtSymbol": "A2109.DCE"
+    },
+    {
+      "startDate": "2021-04-22",
+      "vtSymbol": "A2105.DCE"
+    },
+    {
+      "startDate": "2021-04-28",
+      "vtSymbol": "A2107.DCE"
+    },
+    {
+      "startDate": "2021-06-02",
+      "vtSymbol": "A2201.DCE"
+    },
+    {
+      "startDate": "2021-06-03",
+      "vtSymbol": "A2111.DCE"
+    },
+    {
+      "startDate": "2021-08-17",
+      "vtSymbol": "A2109.DCE"
+    },
+    {
+      "startDate": "2021-08-19",
+      "vtSymbol": "A2201.DCE"
+    },
+    {
+      "startDate": "2021-10-21",
+      "vtSymbol": "A2111.DCE"
+    },
+    {
+      "startDate": "2021-10-26",
+      "vtSymbol": "A2203.DCE"
+    },
+    {
+      "startDate": "2021-12-09",
+      "vtSymbol": "A2201.DCE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "A2205.DCE"
+    },
+    {
+      "startDate": "2022-02-18",
+      "vtSymbol": "A2207.DCE"
+    },
+    {
+      "startDate": "2022-02-24",
+      "vtSymbol": "A2203.DCE"
+    },
+    {
+      "startDate": "2022-02-25",
+      "vtSymbol": "A2205.DCE"
+    },
+    {
+      "startDate": "2022-03-14",
+      "vtSymbol": "A2211.DCE"
+    },
+    {
+      "startDate": "2022-03-16",
+      "vtSymbol": "A2205.DCE"
+    },
+    {
+      "startDate": "2022-03-28",
+      "vtSymbol": "A2211.DCE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "A2205.DCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "A2209.DCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "A2211.DCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "A2301.DCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "A2303.DCE"
+    }
+  ]
+}

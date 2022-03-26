@@ -1,0 +1,53 @@
+{
+  "name": "PF前主力",
+  "mapping": [
+    {
+      "startDate": "2021-04-19",
+      "vtSymbol": "PF2105.CZCE"
+    },
+    {
+      "startDate": "2021-05-14",
+      "vtSymbol": "PF2107.CZCE"
+    },
+    {
+      "startDate": "2021-08-24",
+      "vtSymbol": "PF2109.CZCE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "PF2201.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "PF2205.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "PF2206.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "PF2207.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "PF2208.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "PF2209.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "PF2210.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "PF2211.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "PF2212.CZCE"
+    }
+  ]
+}

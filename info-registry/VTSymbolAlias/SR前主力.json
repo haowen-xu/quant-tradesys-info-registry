@@ -1,0 +1,105 @@
+{
+  "name": "SR前主力",
+  "mapping": [
+    {
+      "startDate": "2015-03-10",
+      "vtSymbol": "SR1505.CZCE"
+    },
+    {
+      "startDate": "2015-06-24",
+      "vtSymbol": "SR1509.CZCE"
+    },
+    {
+      "startDate": "2015-11-26",
+      "vtSymbol": "SR1601.CZCE"
+    },
+    {
+      "startDate": "2016-03-10",
+      "vtSymbol": "SR1605.CZCE"
+    },
+    {
+      "startDate": "2016-07-27",
+      "vtSymbol": "SR1609.CZCE"
+    },
+    {
+      "startDate": "2016-12-02",
+      "vtSymbol": "SR1701.CZCE"
+    },
+    {
+      "startDate": "2017-04-05",
+      "vtSymbol": "SR1705.CZCE"
+    },
+    {
+      "startDate": "2017-07-27",
+      "vtSymbol": "SR1709.CZCE"
+    },
+    {
+      "startDate": "2017-12-05",
+      "vtSymbol": "SR1801.CZCE"
+    },
+    {
+      "startDate": "2018-04-03",
+      "vtSymbol": "SR1805.CZCE"
+    },
+    {
+      "startDate": "2018-07-31",
+      "vtSymbol": "SR1809.CZCE"
+    },
+    {
+      "startDate": "2018-12-04",
+      "vtSymbol": "SR1901.CZCE"
+    },
+    {
+      "startDate": "2019-03-29",
+      "vtSymbol": "SR1905.CZCE"
+    },
+    {
+      "startDate": "2019-08-01",
+      "vtSymbol": "SR1909.CZCE"
+    },
+    {
+      "startDate": "2019-12-09",
+      "vtSymbol": "SR2001.CZCE"
+    },
+    {
+      "startDate": "2020-03-27",
+      "vtSymbol": "SR2005.CZCE"
+    },
+    {
+      "startDate": "2020-08-10",
+      "vtSymbol": "SR2009.CZCE"
+    },
+    {
+      "startDate": "2020-12-07",
+      "vtSymbol": "SR2101.CZCE"
+    },
+    {
+      "startDate": "2021-03-29",
+      "vtSymbol": "SR2105.CZCE"
+    },
+    {
+      "startDate": "2021-08-13",
+      "vtSymbol": "SR2109.CZCE"
+    },
+    {
+      "startDate": "2021-12-08",
+      "vtSymbol": "SR2201.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "SR2205.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "SR2207.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "SR2209.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "SR2211.CZCE"
+    }
+  ]
+}

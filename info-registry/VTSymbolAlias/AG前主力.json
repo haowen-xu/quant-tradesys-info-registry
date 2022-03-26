@@ -1,0 +1,97 @@
+{
+  "name": "AG前主力",
+  "mapping": [
+    {
+      "startDate": "2015-05-14",
+      "vtSymbol": "AG1506.SHFE"
+    },
+    {
+      "startDate": "2015-11-23",
+      "vtSymbol": "AG1512.SHFE"
+    },
+    {
+      "startDate": "2016-05-11",
+      "vtSymbol": "AG1606.SHFE"
+    },
+    {
+      "startDate": "2016-11-16",
+      "vtSymbol": "AG1612.SHFE"
+    },
+    {
+      "startDate": "2017-05-11",
+      "vtSymbol": "AG1706.SHFE"
+    },
+    {
+      "startDate": "2017-11-22",
+      "vtSymbol": "AG1712.SHFE"
+    },
+    {
+      "startDate": "2018-05-08",
+      "vtSymbol": "AG1806.SHFE"
+    },
+    {
+      "startDate": "2018-11-08",
+      "vtSymbol": "AG1812.SHFE"
+    },
+    {
+      "startDate": "2019-05-09",
+      "vtSymbol": "AG1906.SHFE"
+    },
+    {
+      "startDate": "2019-11-14",
+      "vtSymbol": "AG1912.SHFE"
+    },
+    {
+      "startDate": "2020-01-06",
+      "vtSymbol": "AG2002.SHFE"
+    },
+    {
+      "startDate": "2020-05-19",
+      "vtSymbol": "AG2006.SHFE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "AG2012.SHFE"
+    },
+    {
+      "startDate": "2021-01-25",
+      "vtSymbol": "AG2102.SHFE"
+    },
+    {
+      "startDate": "2021-05-27",
+      "vtSymbol": "AG2106.SHFE"
+    },
+    {
+      "startDate": "2021-11-30",
+      "vtSymbol": "AG2112.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "AG2206.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "AG2207.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "AG2208.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "AG2209.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "AG2210.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "AG2211.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "AG2212.SHFE"
+    }
+  ]
+}

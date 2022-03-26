@@ -1,0 +1,109 @@
+{
+  "name": "SR次月",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "SR1507.CZCE"
+    },
+    {
+      "startDate": "2015-03-10",
+      "vtSymbol": "SR1511.CZCE"
+    },
+    {
+      "startDate": "2015-06-24",
+      "vtSymbol": "SR1603.CZCE"
+    },
+    {
+      "startDate": "2015-11-26",
+      "vtSymbol": "SR1607.CZCE"
+    },
+    {
+      "startDate": "2016-03-10",
+      "vtSymbol": "SR1611.CZCE"
+    },
+    {
+      "startDate": "2016-07-27",
+      "vtSymbol": "SR1703.CZCE"
+    },
+    {
+      "startDate": "2016-12-02",
+      "vtSymbol": "SR1707.CZCE"
+    },
+    {
+      "startDate": "2017-04-05",
+      "vtSymbol": "SR1711.CZCE"
+    },
+    {
+      "startDate": "2017-07-27",
+      "vtSymbol": "SR1803.CZCE"
+    },
+    {
+      "startDate": "2017-12-05",
+      "vtSymbol": "SR1807.CZCE"
+    },
+    {
+      "startDate": "2018-04-03",
+      "vtSymbol": "SR1811.CZCE"
+    },
+    {
+      "startDate": "2018-07-31",
+      "vtSymbol": "SR1903.CZCE"
+    },
+    {
+      "startDate": "2018-12-04",
+      "vtSymbol": "SR1907.CZCE"
+    },
+    {
+      "startDate": "2019-03-29",
+      "vtSymbol": "SR1911.CZCE"
+    },
+    {
+      "startDate": "2019-08-01",
+      "vtSymbol": "SR2003.CZCE"
+    },
+    {
+      "startDate": "2019-12-09",
+      "vtSymbol": "SR2007.CZCE"
+    },
+    {
+      "startDate": "2020-03-27",
+      "vtSymbol": "SR2011.CZCE"
+    },
+    {
+      "startDate": "2020-08-10",
+      "vtSymbol": "SR2103.CZCE"
+    },
+    {
+      "startDate": "2020-12-07",
+      "vtSymbol": "SR2107.CZCE"
+    },
+    {
+      "startDate": "2021-03-29",
+      "vtSymbol": "SR2111.CZCE"
+    },
+    {
+      "startDate": "2021-08-13",
+      "vtSymbol": "SR2203.CZCE"
+    },
+    {
+      "startDate": "2021-12-08",
+      "vtSymbol": "SR2207.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "SR2209.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "SR2211.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "SR2301.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "SR2303.CZCE"
+    }
+  ]
+}

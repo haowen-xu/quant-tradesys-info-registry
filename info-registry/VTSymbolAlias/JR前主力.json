@@ -1,0 +1,101 @@
+{
+  "name": "JR前主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-08",
+      "vtSymbol": "JR1503.CZCE"
+    },
+    {
+      "startDate": "2015-03-18",
+      "vtSymbol": "JR1505.CZCE"
+    },
+    {
+      "startDate": "2015-05-29",
+      "vtSymbol": "JR1509.CZCE"
+    },
+    {
+      "startDate": "2015-06-05",
+      "vtSymbol": "JR1601.CZCE"
+    },
+    {
+      "startDate": "2016-02-23",
+      "vtSymbol": "JR1603.CZCE"
+    },
+    {
+      "startDate": "2016-05-06",
+      "vtSymbol": "JR1701.CZCE"
+    },
+    {
+      "startDate": "2016-09-13",
+      "vtSymbol": "JR1703.CZCE"
+    },
+    {
+      "startDate": "2016-12-07",
+      "vtSymbol": "JR1705.CZCE"
+    },
+    {
+      "startDate": "2017-02-13",
+      "vtSymbol": "JR1711.CZCE"
+    },
+    {
+      "startDate": "2017-09-21",
+      "vtSymbol": "JR1801.CZCE"
+    },
+    {
+      "startDate": "2017-09-25",
+      "vtSymbol": "JR1805.CZCE"
+    },
+    {
+      "startDate": "2018-07-19",
+      "vtSymbol": "JR1809.CZCE"
+    },
+    {
+      "startDate": "2019-03-08",
+      "vtSymbol": "JR1907.CZCE"
+    },
+    {
+      "startDate": "2019-03-18",
+      "vtSymbol": "JR1911.CZCE"
+    },
+    {
+      "startDate": "2019-08-21",
+      "vtSymbol": "JR2001.CZCE"
+    },
+    {
+      "startDate": "2020-02-11",
+      "vtSymbol": "JR2007.CZCE"
+    },
+    {
+      "startDate": "2020-02-12",
+      "vtSymbol": "JR2009.CZCE"
+    },
+    {
+      "startDate": "2020-03-05",
+      "vtSymbol": "JR2011.CZCE"
+    },
+    {
+      "startDate": "2020-06-12",
+      "vtSymbol": "JR2101.CZCE"
+    },
+    {
+      "startDate": "2021-01-29",
+      "vtSymbol": "JR2105.CZCE"
+    },
+    {
+      "startDate": "2021-09-01",
+      "vtSymbol": "JR2109.CZCE"
+    },
+    {
+      "startDate": "2021-09-29",
+      "vtSymbol": "JR2111.CZCE"
+    },
+    {
+      "startDate": "2021-11-29",
+      "vtSymbol": "JR2203.CZCE"
+    },
+    {
+      "startDate": "2022-03-10",
+      "vtSymbol": "JR2211.CZCE"
+    }
+  ]
+}

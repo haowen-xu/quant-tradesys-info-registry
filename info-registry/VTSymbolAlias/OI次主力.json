@@ -1,0 +1,365 @@
+{
+  "name": "OI次主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "OI1509.CZCE"
+    },
+    {
+      "startDate": "2015-03-11",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-01",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-04-02",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-08",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-04-09",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-10",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-04-13",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-14",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-04-15",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-16",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-04-21",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-04-22",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-06-11",
+      "vtSymbol": "OI1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-04",
+      "vtSymbol": "OI1605.CZCE"
+    },
+    {
+      "startDate": "2015-08-11",
+      "vtSymbol": "OI1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-12",
+      "vtSymbol": "OI1605.CZCE"
+    },
+    {
+      "startDate": "2015-08-13",
+      "vtSymbol": "OI1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-14",
+      "vtSymbol": "OI1605.CZCE"
+    },
+    {
+      "startDate": "2015-11-04",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2015-11-27",
+      "vtSymbol": "OI1609.CZCE"
+    },
+    {
+      "startDate": "2016-03-11",
+      "vtSymbol": "OI1605.CZCE"
+    },
+    {
+      "startDate": "2016-04-06",
+      "vtSymbol": "OI1701.CZCE"
+    },
+    {
+      "startDate": "2016-07-13",
+      "vtSymbol": "OI1609.CZCE"
+    },
+    {
+      "startDate": "2016-08-23",
+      "vtSymbol": "OI1705.CZCE"
+    },
+    {
+      "startDate": "2016-08-31",
+      "vtSymbol": "OI1609.CZCE"
+    },
+    {
+      "startDate": "2016-09-01",
+      "vtSymbol": "OI1705.CZCE"
+    },
+    {
+      "startDate": "2016-11-28",
+      "vtSymbol": "OI1701.CZCE"
+    },
+    {
+      "startDate": "2016-12-20",
+      "vtSymbol": "OI1709.CZCE"
+    },
+    {
+      "startDate": "2017-03-24",
+      "vtSymbol": "OI1705.CZCE"
+    },
+    {
+      "startDate": "2017-04-13",
+      "vtSymbol": "OI1801.CZCE"
+    },
+    {
+      "startDate": "2017-04-17",
+      "vtSymbol": "OI1705.CZCE"
+    },
+    {
+      "startDate": "2017-04-18",
+      "vtSymbol": "OI1801.CZCE"
+    },
+    {
+      "startDate": "2017-08-02",
+      "vtSymbol": "OI1709.CZCE"
+    },
+    {
+      "startDate": "2017-08-22",
+      "vtSymbol": "OI1805.CZCE"
+    },
+    {
+      "startDate": "2017-11-27",
+      "vtSymbol": "OI1801.CZCE"
+    },
+    {
+      "startDate": "2017-12-27",
+      "vtSymbol": "OI1809.CZCE"
+    },
+    {
+      "startDate": "2018-03-29",
+      "vtSymbol": "OI1805.CZCE"
+    },
+    {
+      "startDate": "2018-04-20",
+      "vtSymbol": "OI1901.CZCE"
+    },
+    {
+      "startDate": "2018-07-31",
+      "vtSymbol": "OI1809.CZCE"
+    },
+    {
+      "startDate": "2018-08-28",
+      "vtSymbol": "OI1905.CZCE"
+    },
+    {
+      "startDate": "2018-08-29",
+      "vtSymbol": "OI1809.CZCE"
+    },
+    {
+      "startDate": "2018-08-31",
+      "vtSymbol": "OI1905.CZCE"
+    },
+    {
+      "startDate": "2018-12-06",
+      "vtSymbol": "OI1901.CZCE"
+    },
+    {
+      "startDate": "2018-12-27",
+      "vtSymbol": "OI1909.CZCE"
+    },
+    {
+      "startDate": "2019-04-11",
+      "vtSymbol": "OI1905.CZCE"
+    },
+    {
+      "startDate": "2019-04-25",
+      "vtSymbol": "OI2001.CZCE"
+    },
+    {
+      "startDate": "2019-08-06",
+      "vtSymbol": "OI1909.CZCE"
+    },
+    {
+      "startDate": "2019-08-27",
+      "vtSymbol": "OI2005.CZCE"
+    },
+    {
+      "startDate": "2019-12-11",
+      "vtSymbol": "OI2001.CZCE"
+    },
+    {
+      "startDate": "2019-12-27",
+      "vtSymbol": "OI2009.CZCE"
+    },
+    {
+      "startDate": "2020-04-03",
+      "vtSymbol": "OI2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-07",
+      "vtSymbol": "OI2009.CZCE"
+    },
+    {
+      "startDate": "2020-04-30",
+      "vtSymbol": "OI2007.CZCE"
+    },
+    {
+      "startDate": "2020-06-02",
+      "vtSymbol": "OI2011.CZCE"
+    },
+    {
+      "startDate": "2020-07-03",
+      "vtSymbol": "OI2101.CZCE"
+    },
+    {
+      "startDate": "2020-08-18",
+      "vtSymbol": "OI2009.CZCE"
+    },
+    {
+      "startDate": "2020-08-26",
+      "vtSymbol": "OI2011.CZCE"
+    },
+    {
+      "startDate": "2020-10-12",
+      "vtSymbol": "OI2105.CZCE"
+    },
+    {
+      "startDate": "2020-12-16",
+      "vtSymbol": "OI2101.CZCE"
+    },
+    {
+      "startDate": "2020-12-22",
+      "vtSymbol": "OI2103.CZCE"
+    },
+    {
+      "startDate": "2021-02-02",
+      "vtSymbol": "OI2109.CZCE"
+    },
+    {
+      "startDate": "2021-02-09",
+      "vtSymbol": "OI2107.CZCE"
+    },
+    {
+      "startDate": "2021-02-10",
+      "vtSymbol": "OI2109.CZCE"
+    },
+    {
+      "startDate": "2021-02-18",
+      "vtSymbol": "OI2107.CZCE"
+    },
+    {
+      "startDate": "2021-02-23",
+      "vtSymbol": "OI2109.CZCE"
+    },
+    {
+      "startDate": "2021-04-16",
+      "vtSymbol": "OI2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-23",
+      "vtSymbol": "OI2107.CZCE"
+    },
+    {
+      "startDate": "2021-05-24",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2021-05-26",
+      "vtSymbol": "OI2107.CZCE"
+    },
+    {
+      "startDate": "2021-05-27",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2021-05-28",
+      "vtSymbol": "OI2107.CZCE"
+    },
+    {
+      "startDate": "2021-06-02",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2021-06-08",
+      "vtSymbol": "OI2111.CZCE"
+    },
+    {
+      "startDate": "2021-06-11",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2021-08-18",
+      "vtSymbol": "OI2109.CZCE"
+    },
+    {
+      "startDate": "2021-08-24",
+      "vtSymbol": "OI2111.CZCE"
+    },
+    {
+      "startDate": "2021-10-11",
+      "vtSymbol": "OI2205.CZCE"
+    },
+    {
+      "startDate": "2021-10-12",
+      "vtSymbol": "OI2111.CZCE"
+    },
+    {
+      "startDate": "2021-10-13",
+      "vtSymbol": "OI2205.CZCE"
+    },
+    {
+      "startDate": "2021-12-14",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2021-12-21",
+      "vtSymbol": "OI2203.CZCE"
+    },
+    {
+      "startDate": "2022-02-09",
+      "vtSymbol": "OI2209.CZCE"
+    },
+    {
+      "startDate": "2022-02-11",
+      "vtSymbol": "OI2207.CZCE"
+    },
+    {
+      "startDate": "2022-02-17",
+      "vtSymbol": "OI2209.CZCE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "OI2207.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "OI2209.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "OI2211.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "OI2301.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "OI2303.CZCE"
+    }
+  ]
+}

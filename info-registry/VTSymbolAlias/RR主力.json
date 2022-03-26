@@ -1,0 +1,109 @@
+{
+  "name": "RR主力",
+  "mapping": [
+    {
+      "startDate": "2019-08-16",
+      "vtSymbol": "RR2001.DCE"
+    },
+    {
+      "startDate": "2019-12-13",
+      "vtSymbol": "RR2005.DCE"
+    },
+    {
+      "startDate": "2020-03-26",
+      "vtSymbol": "RR2009.DCE"
+    },
+    {
+      "startDate": "2020-07-03",
+      "vtSymbol": "RR2010.DCE"
+    },
+    {
+      "startDate": "2020-07-07",
+      "vtSymbol": "RR2012.DCE"
+    },
+    {
+      "startDate": "2020-09-02",
+      "vtSymbol": "RR2102.DCE"
+    },
+    {
+      "startDate": "2020-11-06",
+      "vtSymbol": "RR2103.DCE"
+    },
+    {
+      "startDate": "2020-12-02",
+      "vtSymbol": "RR2104.DCE"
+    },
+    {
+      "startDate": "2021-03-02",
+      "vtSymbol": "RR2105.DCE"
+    },
+    {
+      "startDate": "2021-04-02",
+      "vtSymbol": "RR2108.DCE"
+    },
+    {
+      "startDate": "2021-05-07",
+      "vtSymbol": "RR2110.DCE"
+    },
+    {
+      "startDate": "2021-07-06",
+      "vtSymbol": "RR2111.DCE"
+    },
+    {
+      "startDate": "2021-08-03",
+      "vtSymbol": "RR2112.DCE"
+    },
+    {
+      "startDate": "2021-09-03",
+      "vtSymbol": "RR2201.DCE"
+    },
+    {
+      "startDate": "2021-10-12",
+      "vtSymbol": "RR2202.DCE"
+    },
+    {
+      "startDate": "2021-11-02",
+      "vtSymbol": "RR2203.DCE"
+    },
+    {
+      "startDate": "2021-12-02",
+      "vtSymbol": "RR2204.DCE"
+    },
+    {
+      "startDate": "2022-01-11",
+      "vtSymbol": "RR2205.DCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "RR2206.DCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "RR2207.DCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "RR2208.DCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "RR2209.DCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "RR2210.DCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "RR2211.DCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "RR2212.DCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "RR2301.DCE"
+    }
+  ]
+}

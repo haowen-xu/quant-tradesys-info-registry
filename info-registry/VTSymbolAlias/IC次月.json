@@ -1,0 +1,349 @@
+{
+  "name": "IC次月",
+  "mapping": [
+    {
+      "startDate": "2015-04-16",
+      "vtSymbol": "IC1506.CFFEX"
+    },
+    {
+      "startDate": "2015-05-14",
+      "vtSymbol": "IC1507.CFFEX"
+    },
+    {
+      "startDate": "2015-06-18",
+      "vtSymbol": "IC1508.CFFEX"
+    },
+    {
+      "startDate": "2015-07-16",
+      "vtSymbol": "IC1509.CFFEX"
+    },
+    {
+      "startDate": "2015-08-20",
+      "vtSymbol": "IC1510.CFFEX"
+    },
+    {
+      "startDate": "2015-09-17",
+      "vtSymbol": "IC1511.CFFEX"
+    },
+    {
+      "startDate": "2015-10-15",
+      "vtSymbol": "IC1512.CFFEX"
+    },
+    {
+      "startDate": "2015-11-19",
+      "vtSymbol": "IC1601.CFFEX"
+    },
+    {
+      "startDate": "2015-12-17",
+      "vtSymbol": "IC1602.CFFEX"
+    },
+    {
+      "startDate": "2016-01-14",
+      "vtSymbol": "IC1603.CFFEX"
+    },
+    {
+      "startDate": "2016-02-18",
+      "vtSymbol": "IC1604.CFFEX"
+    },
+    {
+      "startDate": "2016-03-17",
+      "vtSymbol": "IC1605.CFFEX"
+    },
+    {
+      "startDate": "2016-04-14",
+      "vtSymbol": "IC1606.CFFEX"
+    },
+    {
+      "startDate": "2016-05-19",
+      "vtSymbol": "IC1607.CFFEX"
+    },
+    {
+      "startDate": "2016-06-16",
+      "vtSymbol": "IC1608.CFFEX"
+    },
+    {
+      "startDate": "2016-07-14",
+      "vtSymbol": "IC1609.CFFEX"
+    },
+    {
+      "startDate": "2016-08-18",
+      "vtSymbol": "IC1610.CFFEX"
+    },
+    {
+      "startDate": "2016-09-14",
+      "vtSymbol": "IC1611.CFFEX"
+    },
+    {
+      "startDate": "2016-10-20",
+      "vtSymbol": "IC1612.CFFEX"
+    },
+    {
+      "startDate": "2016-11-17",
+      "vtSymbol": "IC1701.CFFEX"
+    },
+    {
+      "startDate": "2016-12-15",
+      "vtSymbol": "IC1702.CFFEX"
+    },
+    {
+      "startDate": "2017-01-19",
+      "vtSymbol": "IC1703.CFFEX"
+    },
+    {
+      "startDate": "2017-02-16",
+      "vtSymbol": "IC1704.CFFEX"
+    },
+    {
+      "startDate": "2017-03-16",
+      "vtSymbol": "IC1705.CFFEX"
+    },
+    {
+      "startDate": "2017-04-20",
+      "vtSymbol": "IC1706.CFFEX"
+    },
+    {
+      "startDate": "2017-05-18",
+      "vtSymbol": "IC1707.CFFEX"
+    },
+    {
+      "startDate": "2017-06-15",
+      "vtSymbol": "IC1708.CFFEX"
+    },
+    {
+      "startDate": "2017-07-20",
+      "vtSymbol": "IC1709.CFFEX"
+    },
+    {
+      "startDate": "2017-08-17",
+      "vtSymbol": "IC1710.CFFEX"
+    },
+    {
+      "startDate": "2017-09-14",
+      "vtSymbol": "IC1711.CFFEX"
+    },
+    {
+      "startDate": "2017-10-19",
+      "vtSymbol": "IC1712.CFFEX"
+    },
+    {
+      "startDate": "2017-11-16",
+      "vtSymbol": "IC1801.CFFEX"
+    },
+    {
+      "startDate": "2017-12-14",
+      "vtSymbol": "IC1802.CFFEX"
+    },
+    {
+      "startDate": "2018-01-18",
+      "vtSymbol": "IC1803.CFFEX"
+    },
+    {
+      "startDate": "2018-02-14",
+      "vtSymbol": "IC1804.CFFEX"
+    },
+    {
+      "startDate": "2018-03-15",
+      "vtSymbol": "IC1805.CFFEX"
+    },
+    {
+      "startDate": "2018-04-19",
+      "vtSymbol": "IC1806.CFFEX"
+    },
+    {
+      "startDate": "2018-05-17",
+      "vtSymbol": "IC1807.CFFEX"
+    },
+    {
+      "startDate": "2018-06-14",
+      "vtSymbol": "IC1808.CFFEX"
+    },
+    {
+      "startDate": "2018-07-19",
+      "vtSymbol": "IC1809.CFFEX"
+    },
+    {
+      "startDate": "2018-08-16",
+      "vtSymbol": "IC1810.CFFEX"
+    },
+    {
+      "startDate": "2018-09-20",
+      "vtSymbol": "IC1811.CFFEX"
+    },
+    {
+      "startDate": "2018-10-18",
+      "vtSymbol": "IC1812.CFFEX"
+    },
+    {
+      "startDate": "2018-11-15",
+      "vtSymbol": "IC1901.CFFEX"
+    },
+    {
+      "startDate": "2018-12-20",
+      "vtSymbol": "IC1902.CFFEX"
+    },
+    {
+      "startDate": "2019-01-17",
+      "vtSymbol": "IC1903.CFFEX"
+    },
+    {
+      "startDate": "2019-02-14",
+      "vtSymbol": "IC1904.CFFEX"
+    },
+    {
+      "startDate": "2019-03-14",
+      "vtSymbol": "IC1905.CFFEX"
+    },
+    {
+      "startDate": "2019-04-18",
+      "vtSymbol": "IC1906.CFFEX"
+    },
+    {
+      "startDate": "2019-05-16",
+      "vtSymbol": "IC1907.CFFEX"
+    },
+    {
+      "startDate": "2019-06-20",
+      "vtSymbol": "IC1908.CFFEX"
+    },
+    {
+      "startDate": "2019-07-18",
+      "vtSymbol": "IC1909.CFFEX"
+    },
+    {
+      "startDate": "2019-08-15",
+      "vtSymbol": "IC1910.CFFEX"
+    },
+    {
+      "startDate": "2019-09-19",
+      "vtSymbol": "IC1911.CFFEX"
+    },
+    {
+      "startDate": "2019-10-17",
+      "vtSymbol": "IC1912.CFFEX"
+    },
+    {
+      "startDate": "2019-11-14",
+      "vtSymbol": "IC2001.CFFEX"
+    },
+    {
+      "startDate": "2019-12-19",
+      "vtSymbol": "IC2002.CFFEX"
+    },
+    {
+      "startDate": "2020-01-16",
+      "vtSymbol": "IC2003.CFFEX"
+    },
+    {
+      "startDate": "2020-02-20",
+      "vtSymbol": "IC2004.CFFEX"
+    },
+    {
+      "startDate": "2020-03-19",
+      "vtSymbol": "IC2005.CFFEX"
+    },
+    {
+      "startDate": "2020-04-16",
+      "vtSymbol": "IC2006.CFFEX"
+    },
+    {
+      "startDate": "2020-05-14",
+      "vtSymbol": "IC2007.CFFEX"
+    },
+    {
+      "startDate": "2020-06-18",
+      "vtSymbol": "IC2008.CFFEX"
+    },
+    {
+      "startDate": "2020-07-16",
+      "vtSymbol": "IC2009.CFFEX"
+    },
+    {
+      "startDate": "2020-08-20",
+      "vtSymbol": "IC2010.CFFEX"
+    },
+    {
+      "startDate": "2020-09-17",
+      "vtSymbol": "IC2011.CFFEX"
+    },
+    {
+      "startDate": "2020-10-15",
+      "vtSymbol": "IC2012.CFFEX"
+    },
+    {
+      "startDate": "2020-11-19",
+      "vtSymbol": "IC2101.CFFEX"
+    },
+    {
+      "startDate": "2020-12-17",
+      "vtSymbol": "IC2102.CFFEX"
+    },
+    {
+      "startDate": "2021-01-14",
+      "vtSymbol": "IC2103.CFFEX"
+    },
+    {
+      "startDate": "2021-02-18",
+      "vtSymbol": "IC2104.CFFEX"
+    },
+    {
+      "startDate": "2021-03-18",
+      "vtSymbol": "IC2105.CFFEX"
+    },
+    {
+      "startDate": "2021-04-15",
+      "vtSymbol": "IC2106.CFFEX"
+    },
+    {
+      "startDate": "2021-05-20",
+      "vtSymbol": "IC2107.CFFEX"
+    },
+    {
+      "startDate": "2021-06-17",
+      "vtSymbol": "IC2108.CFFEX"
+    },
+    {
+      "startDate": "2021-07-15",
+      "vtSymbol": "IC2109.CFFEX"
+    },
+    {
+      "startDate": "2021-08-19",
+      "vtSymbol": "IC2110.CFFEX"
+    },
+    {
+      "startDate": "2021-09-16",
+      "vtSymbol": "IC2111.CFFEX"
+    },
+    {
+      "startDate": "2021-10-14",
+      "vtSymbol": "IC2112.CFFEX"
+    },
+    {
+      "startDate": "2021-11-18",
+      "vtSymbol": "IC2201.CFFEX"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "IC2202.CFFEX"
+    },
+    {
+      "startDate": "2022-01-20",
+      "vtSymbol": "IC2203.CFFEX"
+    },
+    {
+      "startDate": "2022-02-17",
+      "vtSymbol": "IC2204.CFFEX"
+    },
+    {
+      "startDate": "2022-03-17",
+      "vtSymbol": "IC2205.CFFEX"
+    },
+    {
+      "startDate": "2022-04-14",
+      "vtSymbol": "IC2206.CFFEX"
+    },
+    {
+      "startDate": "2022-05-19",
+      "vtSymbol": "IC2209.CFFEX"
+    }
+  ]
+}

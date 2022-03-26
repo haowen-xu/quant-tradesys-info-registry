@@ -1,0 +1,101 @@
+{
+  "name": "AG次月",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "AG1507.SHFE"
+    },
+    {
+      "startDate": "2015-05-14",
+      "vtSymbol": "AG1601.SHFE"
+    },
+    {
+      "startDate": "2015-11-23",
+      "vtSymbol": "AG1607.SHFE"
+    },
+    {
+      "startDate": "2016-05-11",
+      "vtSymbol": "AG1701.SHFE"
+    },
+    {
+      "startDate": "2016-11-16",
+      "vtSymbol": "AG1707.SHFE"
+    },
+    {
+      "startDate": "2017-05-11",
+      "vtSymbol": "AG1801.SHFE"
+    },
+    {
+      "startDate": "2017-11-22",
+      "vtSymbol": "AG1807.SHFE"
+    },
+    {
+      "startDate": "2018-05-08",
+      "vtSymbol": "AG1901.SHFE"
+    },
+    {
+      "startDate": "2018-11-08",
+      "vtSymbol": "AG1907.SHFE"
+    },
+    {
+      "startDate": "2019-05-09",
+      "vtSymbol": "AG2001.SHFE"
+    },
+    {
+      "startDate": "2019-11-14",
+      "vtSymbol": "AG2003.SHFE"
+    },
+    {
+      "startDate": "2020-01-06",
+      "vtSymbol": "AG2007.SHFE"
+    },
+    {
+      "startDate": "2020-05-19",
+      "vtSymbol": "AG2101.SHFE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "AG2103.SHFE"
+    },
+    {
+      "startDate": "2021-01-25",
+      "vtSymbol": "AG2107.SHFE"
+    },
+    {
+      "startDate": "2021-05-27",
+      "vtSymbol": "AG2201.SHFE"
+    },
+    {
+      "startDate": "2021-11-30",
+      "vtSymbol": "AG2207.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "AG2208.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "AG2209.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "AG2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "AG2211.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "AG2212.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "AG2301.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "AG2302.SHFE"
+    }
+  ]
+}

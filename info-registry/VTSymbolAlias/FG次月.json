@@ -1,0 +1,113 @@
+{
+  "name": "FG次月",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "FG1507.CZCE"
+    },
+    {
+      "startDate": "2015-04-08",
+      "vtSymbol": "FG1510.CZCE"
+    },
+    {
+      "startDate": "2015-08-10",
+      "vtSymbol": "FG1602.CZCE"
+    },
+    {
+      "startDate": "2015-12-02",
+      "vtSymbol": "FG1606.CZCE"
+    },
+    {
+      "startDate": "2016-04-07",
+      "vtSymbol": "FG1610.CZCE"
+    },
+    {
+      "startDate": "2016-08-15",
+      "vtSymbol": "FG1702.CZCE"
+    },
+    {
+      "startDate": "2016-12-02",
+      "vtSymbol": "FG1706.CZCE"
+    },
+    {
+      "startDate": "2017-04-11",
+      "vtSymbol": "FG1710.CZCE"
+    },
+    {
+      "startDate": "2017-08-10",
+      "vtSymbol": "FG1802.CZCE"
+    },
+    {
+      "startDate": "2017-11-30",
+      "vtSymbol": "FG1806.CZCE"
+    },
+    {
+      "startDate": "2018-04-11",
+      "vtSymbol": "FG1810.CZCE"
+    },
+    {
+      "startDate": "2018-08-09",
+      "vtSymbol": "FG1902.CZCE"
+    },
+    {
+      "startDate": "2018-12-17",
+      "vtSymbol": "FG1906.CZCE"
+    },
+    {
+      "startDate": "2019-04-17",
+      "vtSymbol": "FG1910.CZCE"
+    },
+    {
+      "startDate": "2019-08-09",
+      "vtSymbol": "FG2002.CZCE"
+    },
+    {
+      "startDate": "2019-12-10",
+      "vtSymbol": "FG2006.CZCE"
+    },
+    {
+      "startDate": "2020-04-02",
+      "vtSymbol": "FG2010.CZCE"
+    },
+    {
+      "startDate": "2020-08-12",
+      "vtSymbol": "FG2102.CZCE"
+    },
+    {
+      "startDate": "2020-12-14",
+      "vtSymbol": "FG2106.CZCE"
+    },
+    {
+      "startDate": "2021-04-08",
+      "vtSymbol": "FG2110.CZCE"
+    },
+    {
+      "startDate": "2021-07-23",
+      "vtSymbol": "FG2202.CZCE"
+    },
+    {
+      "startDate": "2021-12-10",
+      "vtSymbol": "FG2206.CZCE"
+    },
+    {
+      "startDate": "2022-03-24",
+      "vtSymbol": "FG2210.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "FG2211.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "FG2212.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "FG2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "FG2302.CZCE"
+    }
+  ]
+}

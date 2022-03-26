@@ -1,0 +1,105 @@
+{
+  "name": "JR次月",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "JR1505.CZCE"
+    },
+    {
+      "startDate": "2015-01-08",
+      "vtSymbol": "JR1507.CZCE"
+    },
+    {
+      "startDate": "2015-03-18",
+      "vtSymbol": "JR1511.CZCE"
+    },
+    {
+      "startDate": "2015-05-29",
+      "vtSymbol": "JR1603.CZCE"
+    },
+    {
+      "startDate": "2015-06-05",
+      "vtSymbol": "JR1605.CZCE"
+    },
+    {
+      "startDate": "2016-02-23",
+      "vtSymbol": "JR1703.CZCE"
+    },
+    {
+      "startDate": "2016-05-06",
+      "vtSymbol": "JR1705.CZCE"
+    },
+    {
+      "startDate": "2016-09-13",
+      "vtSymbol": "JR1707.CZCE"
+    },
+    {
+      "startDate": "2016-12-07",
+      "vtSymbol": "JR1801.CZCE"
+    },
+    {
+      "startDate": "2017-02-13",
+      "vtSymbol": "JR1803.CZCE"
+    },
+    {
+      "startDate": "2017-09-21",
+      "vtSymbol": "JR1807.CZCE"
+    },
+    {
+      "startDate": "2017-09-25",
+      "vtSymbol": "JR1811.CZCE"
+    },
+    {
+      "startDate": "2018-07-19",
+      "vtSymbol": "JR1909.CZCE"
+    },
+    {
+      "startDate": "2019-03-08",
+      "vtSymbol": "JR2001.CZCE"
+    },
+    {
+      "startDate": "2019-03-18",
+      "vtSymbol": "JR2003.CZCE"
+    },
+    {
+      "startDate": "2019-08-21",
+      "vtSymbol": "JR2009.CZCE"
+    },
+    {
+      "startDate": "2020-02-11",
+      "vtSymbol": "JR2011.CZCE"
+    },
+    {
+      "startDate": "2020-02-12",
+      "vtSymbol": "JR2101.CZCE"
+    },
+    {
+      "startDate": "2020-03-05",
+      "vtSymbol": "JR2103.CZCE"
+    },
+    {
+      "startDate": "2020-06-12",
+      "vtSymbol": "JR2107.CZCE"
+    },
+    {
+      "startDate": "2021-01-29",
+      "vtSymbol": "JR2111.CZCE"
+    },
+    {
+      "startDate": "2021-09-01",
+      "vtSymbol": "JR2201.CZCE"
+    },
+    {
+      "startDate": "2021-09-29",
+      "vtSymbol": "JR2205.CZCE"
+    },
+    {
+      "startDate": "2021-11-29",
+      "vtSymbol": "JR2301.CZCE"
+    },
+    {
+      "startDate": "2022-03-10",
+      "vtSymbol": "JR2303.CZCE"
+    }
+  ]
+}

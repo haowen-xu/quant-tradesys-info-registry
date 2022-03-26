@@ -1,0 +1,777 @@
+{
+  "name": "AL次主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "AL1502.SHFE"
+    },
+    {
+      "startDate": "2015-01-08",
+      "vtSymbol": "AL1504.SHFE"
+    },
+    {
+      "startDate": "2015-01-30",
+      "vtSymbol": "AL1503.SHFE"
+    },
+    {
+      "startDate": "2015-02-04",
+      "vtSymbol": "AL1505.SHFE"
+    },
+    {
+      "startDate": "2015-03-02",
+      "vtSymbol": "AL1504.SHFE"
+    },
+    {
+      "startDate": "2015-03-06",
+      "vtSymbol": "AL1506.SHFE"
+    },
+    {
+      "startDate": "2015-03-23",
+      "vtSymbol": "AL1505.SHFE"
+    },
+    {
+      "startDate": "2015-03-31",
+      "vtSymbol": "AL1507.SHFE"
+    },
+    {
+      "startDate": "2015-04-01",
+      "vtSymbol": "AL1505.SHFE"
+    },
+    {
+      "startDate": "2015-04-03",
+      "vtSymbol": "AL1507.SHFE"
+    },
+    {
+      "startDate": "2015-04-22",
+      "vtSymbol": "AL1506.SHFE"
+    },
+    {
+      "startDate": "2015-05-04",
+      "vtSymbol": "AL1508.SHFE"
+    },
+    {
+      "startDate": "2015-05-22",
+      "vtSymbol": "AL1507.SHFE"
+    },
+    {
+      "startDate": "2015-06-05",
+      "vtSymbol": "AL1509.SHFE"
+    },
+    {
+      "startDate": "2015-06-23",
+      "vtSymbol": "AL1508.SHFE"
+    },
+    {
+      "startDate": "2015-07-07",
+      "vtSymbol": "AL1510.SHFE"
+    },
+    {
+      "startDate": "2015-07-23",
+      "vtSymbol": "AL1509.SHFE"
+    },
+    {
+      "startDate": "2015-08-04",
+      "vtSymbol": "AL1511.SHFE"
+    },
+    {
+      "startDate": "2015-08-06",
+      "vtSymbol": "AL1509.SHFE"
+    },
+    {
+      "startDate": "2015-08-07",
+      "vtSymbol": "AL1511.SHFE"
+    },
+    {
+      "startDate": "2015-08-17",
+      "vtSymbol": "AL1509.SHFE"
+    },
+    {
+      "startDate": "2015-08-18",
+      "vtSymbol": "AL1511.SHFE"
+    },
+    {
+      "startDate": "2015-08-31",
+      "vtSymbol": "AL1510.SHFE"
+    },
+    {
+      "startDate": "2015-09-16",
+      "vtSymbol": "AL1512.SHFE"
+    },
+    {
+      "startDate": "2015-09-24",
+      "vtSymbol": "AL1511.SHFE"
+    },
+    {
+      "startDate": "2015-10-09",
+      "vtSymbol": "AL1601.SHFE"
+    },
+    {
+      "startDate": "2015-10-21",
+      "vtSymbol": "AL1512.SHFE"
+    },
+    {
+      "startDate": "2015-11-03",
+      "vtSymbol": "AL1602.SHFE"
+    },
+    {
+      "startDate": "2015-12-03",
+      "vtSymbol": "AL1601.SHFE"
+    },
+    {
+      "startDate": "2015-12-07",
+      "vtSymbol": "AL1603.SHFE"
+    },
+    {
+      "startDate": "2015-12-29",
+      "vtSymbol": "AL1602.SHFE"
+    },
+    {
+      "startDate": "2016-01-08",
+      "vtSymbol": "AL1604.SHFE"
+    },
+    {
+      "startDate": "2016-02-02",
+      "vtSymbol": "AL1603.SHFE"
+    },
+    {
+      "startDate": "2016-02-15",
+      "vtSymbol": "AL1605.SHFE"
+    },
+    {
+      "startDate": "2016-03-02",
+      "vtSymbol": "AL1604.SHFE"
+    },
+    {
+      "startDate": "2016-03-08",
+      "vtSymbol": "AL1606.SHFE"
+    },
+    {
+      "startDate": "2016-04-06",
+      "vtSymbol": "AL1605.SHFE"
+    },
+    {
+      "startDate": "2016-04-12",
+      "vtSymbol": "AL1607.SHFE"
+    },
+    {
+      "startDate": "2016-05-04",
+      "vtSymbol": "AL1606.SHFE"
+    },
+    {
+      "startDate": "2016-05-11",
+      "vtSymbol": "AL1608.SHFE"
+    },
+    {
+      "startDate": "2016-06-03",
+      "vtSymbol": "AL1607.SHFE"
+    },
+    {
+      "startDate": "2016-06-14",
+      "vtSymbol": "AL1609.SHFE"
+    },
+    {
+      "startDate": "2016-07-04",
+      "vtSymbol": "AL1608.SHFE"
+    },
+    {
+      "startDate": "2016-07-14",
+      "vtSymbol": "AL1610.SHFE"
+    },
+    {
+      "startDate": "2016-08-03",
+      "vtSymbol": "AL1609.SHFE"
+    },
+    {
+      "startDate": "2016-08-11",
+      "vtSymbol": "AL1611.SHFE"
+    },
+    {
+      "startDate": "2016-08-15",
+      "vtSymbol": "AL1609.SHFE"
+    },
+    {
+      "startDate": "2016-08-17",
+      "vtSymbol": "AL1611.SHFE"
+    },
+    {
+      "startDate": "2016-09-05",
+      "vtSymbol": "AL1610.SHFE"
+    },
+    {
+      "startDate": "2016-09-20",
+      "vtSymbol": "AL1612.SHFE"
+    },
+    {
+      "startDate": "2016-10-12",
+      "vtSymbol": "AL1611.SHFE"
+    },
+    {
+      "startDate": "2016-10-17",
+      "vtSymbol": "AL1701.SHFE"
+    },
+    {
+      "startDate": "2016-11-03",
+      "vtSymbol": "AL1612.SHFE"
+    },
+    {
+      "startDate": "2016-11-10",
+      "vtSymbol": "AL1702.SHFE"
+    },
+    {
+      "startDate": "2016-12-05",
+      "vtSymbol": "AL1701.SHFE"
+    },
+    {
+      "startDate": "2016-12-08",
+      "vtSymbol": "AL1703.SHFE"
+    },
+    {
+      "startDate": "2017-01-05",
+      "vtSymbol": "AL1702.SHFE"
+    },
+    {
+      "startDate": "2017-01-16",
+      "vtSymbol": "AL1704.SHFE"
+    },
+    {
+      "startDate": "2017-02-14",
+      "vtSymbol": "AL1703.SHFE"
+    },
+    {
+      "startDate": "2017-02-20",
+      "vtSymbol": "AL1705.SHFE"
+    },
+    {
+      "startDate": "2017-03-10",
+      "vtSymbol": "AL1704.SHFE"
+    },
+    {
+      "startDate": "2017-03-17",
+      "vtSymbol": "AL1706.SHFE"
+    },
+    {
+      "startDate": "2017-04-12",
+      "vtSymbol": "AL1705.SHFE"
+    },
+    {
+      "startDate": "2017-04-20",
+      "vtSymbol": "AL1707.SHFE"
+    },
+    {
+      "startDate": "2017-05-11",
+      "vtSymbol": "AL1706.SHFE"
+    },
+    {
+      "startDate": "2017-05-19",
+      "vtSymbol": "AL1708.SHFE"
+    },
+    {
+      "startDate": "2017-06-09",
+      "vtSymbol": "AL1707.SHFE"
+    },
+    {
+      "startDate": "2017-06-16",
+      "vtSymbol": "AL1709.SHFE"
+    },
+    {
+      "startDate": "2017-07-07",
+      "vtSymbol": "AL1708.SHFE"
+    },
+    {
+      "startDate": "2017-07-18",
+      "vtSymbol": "AL1710.SHFE"
+    },
+    {
+      "startDate": "2017-08-04",
+      "vtSymbol": "AL1709.SHFE"
+    },
+    {
+      "startDate": "2017-08-10",
+      "vtSymbol": "AL1711.SHFE"
+    },
+    {
+      "startDate": "2017-09-04",
+      "vtSymbol": "AL1710.SHFE"
+    },
+    {
+      "startDate": "2017-09-11",
+      "vtSymbol": "AL1712.SHFE"
+    },
+    {
+      "startDate": "2017-10-10",
+      "vtSymbol": "AL1711.SHFE"
+    },
+    {
+      "startDate": "2017-10-16",
+      "vtSymbol": "AL1801.SHFE"
+    },
+    {
+      "startDate": "2017-11-02",
+      "vtSymbol": "AL1712.SHFE"
+    },
+    {
+      "startDate": "2017-11-13",
+      "vtSymbol": "AL1802.SHFE"
+    },
+    {
+      "startDate": "2017-12-06",
+      "vtSymbol": "AL1801.SHFE"
+    },
+    {
+      "startDate": "2017-12-19",
+      "vtSymbol": "AL1803.SHFE"
+    },
+    {
+      "startDate": "2018-01-11",
+      "vtSymbol": "AL1802.SHFE"
+    },
+    {
+      "startDate": "2018-01-19",
+      "vtSymbol": "AL1804.SHFE"
+    },
+    {
+      "startDate": "2018-02-14",
+      "vtSymbol": "AL1803.SHFE"
+    },
+    {
+      "startDate": "2018-02-22",
+      "vtSymbol": "AL1805.SHFE"
+    },
+    {
+      "startDate": "2018-03-06",
+      "vtSymbol": "AL1804.SHFE"
+    },
+    {
+      "startDate": "2018-03-14",
+      "vtSymbol": "AL1806.SHFE"
+    },
+    {
+      "startDate": "2018-04-11",
+      "vtSymbol": "AL1805.SHFE"
+    },
+    {
+      "startDate": "2018-04-18",
+      "vtSymbol": "AL1807.SHFE"
+    },
+    {
+      "startDate": "2018-05-09",
+      "vtSymbol": "AL1806.SHFE"
+    },
+    {
+      "startDate": "2018-05-18",
+      "vtSymbol": "AL1808.SHFE"
+    },
+    {
+      "startDate": "2018-06-11",
+      "vtSymbol": "AL1807.SHFE"
+    },
+    {
+      "startDate": "2018-06-20",
+      "vtSymbol": "AL1809.SHFE"
+    },
+    {
+      "startDate": "2018-07-09",
+      "vtSymbol": "AL1808.SHFE"
+    },
+    {
+      "startDate": "2018-07-18",
+      "vtSymbol": "AL1810.SHFE"
+    },
+    {
+      "startDate": "2018-08-09",
+      "vtSymbol": "AL1809.SHFE"
+    },
+    {
+      "startDate": "2018-08-17",
+      "vtSymbol": "AL1811.SHFE"
+    },
+    {
+      "startDate": "2018-09-06",
+      "vtSymbol": "AL1810.SHFE"
+    },
+    {
+      "startDate": "2018-09-19",
+      "vtSymbol": "AL1812.SHFE"
+    },
+    {
+      "startDate": "2018-10-17",
+      "vtSymbol": "AL1811.SHFE"
+    },
+    {
+      "startDate": "2018-10-22",
+      "vtSymbol": "AL1901.SHFE"
+    },
+    {
+      "startDate": "2018-11-07",
+      "vtSymbol": "AL1812.SHFE"
+    },
+    {
+      "startDate": "2018-11-22",
+      "vtSymbol": "AL1902.SHFE"
+    },
+    {
+      "startDate": "2018-12-13",
+      "vtSymbol": "AL1901.SHFE"
+    },
+    {
+      "startDate": "2018-12-19",
+      "vtSymbol": "AL1903.SHFE"
+    },
+    {
+      "startDate": "2019-01-09",
+      "vtSymbol": "AL1902.SHFE"
+    },
+    {
+      "startDate": "2019-01-17",
+      "vtSymbol": "AL1904.SHFE"
+    },
+    {
+      "startDate": "2019-02-21",
+      "vtSymbol": "AL1903.SHFE"
+    },
+    {
+      "startDate": "2019-02-22",
+      "vtSymbol": "AL1905.SHFE"
+    },
+    {
+      "startDate": "2019-02-27",
+      "vtSymbol": "AL1904.SHFE"
+    },
+    {
+      "startDate": "2019-03-20",
+      "vtSymbol": "AL1906.SHFE"
+    },
+    {
+      "startDate": "2019-04-19",
+      "vtSymbol": "AL1905.SHFE"
+    },
+    {
+      "startDate": "2019-04-25",
+      "vtSymbol": "AL1907.SHFE"
+    },
+    {
+      "startDate": "2019-05-16",
+      "vtSymbol": "AL1906.SHFE"
+    },
+    {
+      "startDate": "2019-05-23",
+      "vtSymbol": "AL1908.SHFE"
+    },
+    {
+      "startDate": "2019-06-18",
+      "vtSymbol": "AL1907.SHFE"
+    },
+    {
+      "startDate": "2019-06-27",
+      "vtSymbol": "AL1909.SHFE"
+    },
+    {
+      "startDate": "2019-07-18",
+      "vtSymbol": "AL1908.SHFE"
+    },
+    {
+      "startDate": "2019-07-25",
+      "vtSymbol": "AL1910.SHFE"
+    },
+    {
+      "startDate": "2019-08-12",
+      "vtSymbol": "AL1909.SHFE"
+    },
+    {
+      "startDate": "2019-08-14",
+      "vtSymbol": "AL1911.SHFE"
+    },
+    {
+      "startDate": "2019-08-15",
+      "vtSymbol": "AL1909.SHFE"
+    },
+    {
+      "startDate": "2019-08-16",
+      "vtSymbol": "AL1911.SHFE"
+    },
+    {
+      "startDate": "2019-09-10",
+      "vtSymbol": "AL1910.SHFE"
+    },
+    {
+      "startDate": "2019-09-20",
+      "vtSymbol": "AL1912.SHFE"
+    },
+    {
+      "startDate": "2019-09-23",
+      "vtSymbol": "AL1910.SHFE"
+    },
+    {
+      "startDate": "2019-09-25",
+      "vtSymbol": "AL1912.SHFE"
+    },
+    {
+      "startDate": "2019-10-16",
+      "vtSymbol": "AL1911.SHFE"
+    },
+    {
+      "startDate": "2019-10-28",
+      "vtSymbol": "AL2001.SHFE"
+    },
+    {
+      "startDate": "2019-11-18",
+      "vtSymbol": "AL1912.SHFE"
+    },
+    {
+      "startDate": "2019-11-29",
+      "vtSymbol": "AL2002.SHFE"
+    },
+    {
+      "startDate": "2019-12-13",
+      "vtSymbol": "AL2001.SHFE"
+    },
+    {
+      "startDate": "2019-12-24",
+      "vtSymbol": "AL2003.SHFE"
+    },
+    {
+      "startDate": "2020-01-13",
+      "vtSymbol": "AL2002.SHFE"
+    },
+    {
+      "startDate": "2020-01-20",
+      "vtSymbol": "AL2004.SHFE"
+    },
+    {
+      "startDate": "2020-02-10",
+      "vtSymbol": "AL2003.SHFE"
+    },
+    {
+      "startDate": "2020-02-24",
+      "vtSymbol": "AL2005.SHFE"
+    },
+    {
+      "startDate": "2020-03-05",
+      "vtSymbol": "AL2004.SHFE"
+    },
+    {
+      "startDate": "2020-03-18",
+      "vtSymbol": "AL2006.SHFE"
+    },
+    {
+      "startDate": "2020-03-31",
+      "vtSymbol": "AL2005.SHFE"
+    },
+    {
+      "startDate": "2020-04-17",
+      "vtSymbol": "AL2007.SHFE"
+    },
+    {
+      "startDate": "2020-05-08",
+      "vtSymbol": "AL2006.SHFE"
+    },
+    {
+      "startDate": "2020-05-22",
+      "vtSymbol": "AL2008.SHFE"
+    },
+    {
+      "startDate": "2020-06-23",
+      "vtSymbol": "AL2007.SHFE"
+    },
+    {
+      "startDate": "2020-07-01",
+      "vtSymbol": "AL2009.SHFE"
+    },
+    {
+      "startDate": "2020-07-28",
+      "vtSymbol": "AL2008.SHFE"
+    },
+    {
+      "startDate": "2020-07-31",
+      "vtSymbol": "AL2010.SHFE"
+    },
+    {
+      "startDate": "2020-08-27",
+      "vtSymbol": "AL2009.SHFE"
+    },
+    {
+      "startDate": "2020-08-31",
+      "vtSymbol": "AL2011.SHFE"
+    },
+    {
+      "startDate": "2020-09-24",
+      "vtSymbol": "AL2012.SHFE"
+    },
+    {
+      "startDate": "2020-10-29",
+      "vtSymbol": "AL2011.SHFE"
+    },
+    {
+      "startDate": "2020-11-02",
+      "vtSymbol": "AL2101.SHFE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "AL2012.SHFE"
+    },
+    {
+      "startDate": "2020-12-01",
+      "vtSymbol": "AL2102.SHFE"
+    },
+    {
+      "startDate": "2020-12-24",
+      "vtSymbol": "AL2101.SHFE"
+    },
+    {
+      "startDate": "2020-12-30",
+      "vtSymbol": "AL2103.SHFE"
+    },
+    {
+      "startDate": "2021-01-18",
+      "vtSymbol": "AL2102.SHFE"
+    },
+    {
+      "startDate": "2021-01-25",
+      "vtSymbol": "AL2104.SHFE"
+    },
+    {
+      "startDate": "2021-02-22",
+      "vtSymbol": "AL2103.SHFE"
+    },
+    {
+      "startDate": "2021-02-24",
+      "vtSymbol": "AL2105.SHFE"
+    },
+    {
+      "startDate": "2021-03-16",
+      "vtSymbol": "AL2104.SHFE"
+    },
+    {
+      "startDate": "2021-03-23",
+      "vtSymbol": "AL2106.SHFE"
+    },
+    {
+      "startDate": "2021-04-22",
+      "vtSymbol": "AL2105.SHFE"
+    },
+    {
+      "startDate": "2021-04-28",
+      "vtSymbol": "AL2107.SHFE"
+    },
+    {
+      "startDate": "2021-05-21",
+      "vtSymbol": "AL2106.SHFE"
+    },
+    {
+      "startDate": "2021-05-27",
+      "vtSymbol": "AL2108.SHFE"
+    },
+    {
+      "startDate": "2021-06-24",
+      "vtSymbol": "AL2107.SHFE"
+    },
+    {
+      "startDate": "2021-06-29",
+      "vtSymbol": "AL2109.SHFE"
+    },
+    {
+      "startDate": "2021-07-22",
+      "vtSymbol": "AL2108.SHFE"
+    },
+    {
+      "startDate": "2021-07-29",
+      "vtSymbol": "AL2110.SHFE"
+    },
+    {
+      "startDate": "2021-08-23",
+      "vtSymbol": "AL2109.SHFE"
+    },
+    {
+      "startDate": "2021-08-27",
+      "vtSymbol": "AL2111.SHFE"
+    },
+    {
+      "startDate": "2021-09-23",
+      "vtSymbol": "AL2110.SHFE"
+    },
+    {
+      "startDate": "2021-09-27",
+      "vtSymbol": "AL2112.SHFE"
+    },
+    {
+      "startDate": "2021-10-21",
+      "vtSymbol": "AL2111.SHFE"
+    },
+    {
+      "startDate": "2021-10-27",
+      "vtSymbol": "AL2201.SHFE"
+    },
+    {
+      "startDate": "2021-11-12",
+      "vtSymbol": "AL2112.SHFE"
+    },
+    {
+      "startDate": "2021-11-25",
+      "vtSymbol": "AL2202.SHFE"
+    },
+    {
+      "startDate": "2021-12-23",
+      "vtSymbol": "AL2201.SHFE"
+    },
+    {
+      "startDate": "2021-12-28",
+      "vtSymbol": "AL2203.SHFE"
+    },
+    {
+      "startDate": "2022-01-20",
+      "vtSymbol": "AL2202.SHFE"
+    },
+    {
+      "startDate": "2022-01-26",
+      "vtSymbol": "AL2204.SHFE"
+    },
+    {
+      "startDate": "2022-02-23",
+      "vtSymbol": "AL2203.SHFE"
+    },
+    {
+      "startDate": "2022-02-25",
+      "vtSymbol": "AL2205.SHFE"
+    },
+    {
+      "startDate": "2022-03-18",
+      "vtSymbol": "AL2204.SHFE"
+    },
+    {
+      "startDate": "2022-03-31",
+      "vtSymbol": "AL2206.SHFE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "AL2207.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "AL2208.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "AL2209.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "AL2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "AL2211.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "AL2212.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "AL2301.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "AL2302.SHFE"
+    }
+  ]
+}

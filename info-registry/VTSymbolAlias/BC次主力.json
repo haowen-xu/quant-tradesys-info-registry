@@ -1,0 +1,229 @@
+{
+  "name": "BC次主力",
+  "mapping": [
+    {
+      "startDate": "2020-11-19",
+      "vtSymbol": "BC2104.INE"
+    },
+    {
+      "startDate": "2020-11-24",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2020-11-25",
+      "vtSymbol": "BC2104.INE"
+    },
+    {
+      "startDate": "2020-11-26",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "BC2104.INE"
+    },
+    {
+      "startDate": "2020-12-24",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2020-12-25",
+      "vtSymbol": "BC2104.INE"
+    },
+    {
+      "startDate": "2021-02-02",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2021-02-03",
+      "vtSymbol": "BC2103.INE"
+    },
+    {
+      "startDate": "2021-02-04",
+      "vtSymbol": "BC2104.INE"
+    },
+    {
+      "startDate": "2021-03-03",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2021-03-04",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-03-05",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2021-03-08",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-03-09",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-03-11",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-03-12",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-03-15",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2021-04-07",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2021-04-12",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-04-13",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2021-04-14",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-04-15",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2021-04-16",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-05-10",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2021-05-13",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-06-04",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-06-07",
+      "vtSymbol": "BC2109.INE"
+    },
+    {
+      "startDate": "2021-07-05",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-07-06",
+      "vtSymbol": "BC2110.INE"
+    },
+    {
+      "startDate": "2021-08-02",
+      "vtSymbol": "BC2109.INE"
+    },
+    {
+      "startDate": "2021-08-03",
+      "vtSymbol": "BC2111.INE"
+    },
+    {
+      "startDate": "2021-08-30",
+      "vtSymbol": "BC2110.INE"
+    },
+    {
+      "startDate": "2021-09-01",
+      "vtSymbol": "BC2112.INE"
+    },
+    {
+      "startDate": "2021-09-29",
+      "vtSymbol": "BC2111.INE"
+    },
+    {
+      "startDate": "2021-09-30",
+      "vtSymbol": "BC2201.INE"
+    },
+    {
+      "startDate": "2021-11-01",
+      "vtSymbol": "BC2112.INE"
+    },
+    {
+      "startDate": "2021-11-05",
+      "vtSymbol": "BC2202.INE"
+    },
+    {
+      "startDate": "2021-12-02",
+      "vtSymbol": "BC2201.INE"
+    },
+    {
+      "startDate": "2021-12-03",
+      "vtSymbol": "BC2203.INE"
+    },
+    {
+      "startDate": "2021-12-28",
+      "vtSymbol": "BC2202.INE"
+    },
+    {
+      "startDate": "2021-12-30",
+      "vtSymbol": "BC2204.INE"
+    },
+    {
+      "startDate": "2022-02-14",
+      "vtSymbol": "BC2203.INE"
+    },
+    {
+      "startDate": "2022-02-17",
+      "vtSymbol": "BC2205.INE"
+    },
+    {
+      "startDate": "2022-03-08",
+      "vtSymbol": "BC2204.INE"
+    },
+    {
+      "startDate": "2022-03-18",
+      "vtSymbol": "BC2206.INE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "BC2204.INE"
+    },
+    {
+      "startDate": "2022-03-31",
+      "vtSymbol": "BC2206.INE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "BC2207.INE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "BC2208.INE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "BC2209.INE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "BC2210.INE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "BC2211.INE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "BC2212.INE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "BC2301.INE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "BC2302.INE"
+    }
+  ]
+}

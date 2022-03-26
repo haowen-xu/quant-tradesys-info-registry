@@ -1,0 +1,121 @@
+{
+  "name": "RU主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "RU1505.SHFE"
+    },
+    {
+      "startDate": "2015-03-04",
+      "vtSymbol": "RU1509.SHFE"
+    },
+    {
+      "startDate": "2015-07-14",
+      "vtSymbol": "RU1601.SHFE"
+    },
+    {
+      "startDate": "2015-11-26",
+      "vtSymbol": "RU1605.SHFE"
+    },
+    {
+      "startDate": "2016-03-21",
+      "vtSymbol": "RU1609.SHFE"
+    },
+    {
+      "startDate": "2016-08-03",
+      "vtSymbol": "RU1701.SHFE"
+    },
+    {
+      "startDate": "2016-11-28",
+      "vtSymbol": "RU1705.SHFE"
+    },
+    {
+      "startDate": "2017-03-21",
+      "vtSymbol": "RU1709.SHFE"
+    },
+    {
+      "startDate": "2017-07-28",
+      "vtSymbol": "RU1801.SHFE"
+    },
+    {
+      "startDate": "2017-11-29",
+      "vtSymbol": "RU1805.SHFE"
+    },
+    {
+      "startDate": "2018-04-03",
+      "vtSymbol": "RU1809.SHFE"
+    },
+    {
+      "startDate": "2018-08-07",
+      "vtSymbol": "RU1901.SHFE"
+    },
+    {
+      "startDate": "2018-12-05",
+      "vtSymbol": "RU1905.SHFE"
+    },
+    {
+      "startDate": "2019-04-02",
+      "vtSymbol": "RU1909.SHFE"
+    },
+    {
+      "startDate": "2019-08-07",
+      "vtSymbol": "RU2001.SHFE"
+    },
+    {
+      "startDate": "2019-12-03",
+      "vtSymbol": "RU2005.SHFE"
+    },
+    {
+      "startDate": "2020-03-24",
+      "vtSymbol": "RU2009.SHFE"
+    },
+    {
+      "startDate": "2020-08-06",
+      "vtSymbol": "RU2101.SHFE"
+    },
+    {
+      "startDate": "2020-12-02",
+      "vtSymbol": "RU2105.SHFE"
+    },
+    {
+      "startDate": "2021-04-06",
+      "vtSymbol": "RU2109.SHFE"
+    },
+    {
+      "startDate": "2021-08-10",
+      "vtSymbol": "RU2201.SHFE"
+    },
+    {
+      "startDate": "2021-11-25",
+      "vtSymbol": "RU2205.SHFE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "RU2206.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "RU2207.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "RU2208.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "RU2209.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "RU2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "RU2211.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "RU2301.SHFE"
+    }
+  ]
+}

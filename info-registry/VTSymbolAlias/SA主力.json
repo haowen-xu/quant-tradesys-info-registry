@@ -1,0 +1,53 @@
+{
+  "name": "SA主力",
+  "mapping": [
+    {
+      "startDate": "2019-12-06",
+      "vtSymbol": "SA2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-20",
+      "vtSymbol": "SA2009.CZCE"
+    },
+    {
+      "startDate": "2020-08-20",
+      "vtSymbol": "SA2101.CZCE"
+    },
+    {
+      "startDate": "2020-12-21",
+      "vtSymbol": "SA2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-09",
+      "vtSymbol": "SA2109.CZCE"
+    },
+    {
+      "startDate": "2021-07-30",
+      "vtSymbol": "SA2201.CZCE"
+    },
+    {
+      "startDate": "2021-11-23",
+      "vtSymbol": "SA2205.CZCE"
+    },
+    {
+      "startDate": "2022-03-25",
+      "vtSymbol": "SA2209.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "SA2210.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "SA2211.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "SA2212.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "SA2301.CZCE"
+    }
+  ]
+}

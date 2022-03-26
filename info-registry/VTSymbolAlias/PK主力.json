@@ -1,0 +1,33 @@
+{
+  "name": "PK主力",
+  "mapping": [
+    {
+      "startDate": "2021-02-01",
+      "vtSymbol": "PK2110.CZCE"
+    },
+    {
+      "startDate": "2021-09-09",
+      "vtSymbol": "PK2201.CZCE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "PK2204.CZCE"
+    },
+    {
+      "startDate": "2022-03-24",
+      "vtSymbol": "PK2210.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "PK2211.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "PK2212.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "PK2301.CZCE"
+    }
+  ]
+}

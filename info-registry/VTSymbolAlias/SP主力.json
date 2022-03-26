@@ -1,0 +1,105 @@
+{
+  "name": "SP主力",
+  "mapping": [
+    {
+      "startDate": "2018-11-27",
+      "vtSymbol": "SP1906.SHFE"
+    },
+    {
+      "startDate": "2019-05-13",
+      "vtSymbol": "SP1909.SHFE"
+    },
+    {
+      "startDate": "2019-08-12",
+      "vtSymbol": "SP2001.SHFE"
+    },
+    {
+      "startDate": "2019-12-18",
+      "vtSymbol": "SP2005.SHFE"
+    },
+    {
+      "startDate": "2020-04-03",
+      "vtSymbol": "SP2009.SHFE"
+    },
+    {
+      "startDate": "2020-08-12",
+      "vtSymbol": "SP2012.SHFE"
+    },
+    {
+      "startDate": "2020-11-12",
+      "vtSymbol": "SP2101.SHFE"
+    },
+    {
+      "startDate": "2020-12-08",
+      "vtSymbol": "SP2103.SHFE"
+    },
+    {
+      "startDate": "2021-02-08",
+      "vtSymbol": "SP2105.SHFE"
+    },
+    {
+      "startDate": "2021-04-15",
+      "vtSymbol": "SP2106.SHFE"
+    },
+    {
+      "startDate": "2021-05-21",
+      "vtSymbol": "SP2107.SHFE"
+    },
+    {
+      "startDate": "2021-06-16",
+      "vtSymbol": "SP2109.SHFE"
+    },
+    {
+      "startDate": "2021-08-23",
+      "vtSymbol": "SP2110.SHFE"
+    },
+    {
+      "startDate": "2021-09-27",
+      "vtSymbol": "SP2111.SHFE"
+    },
+    {
+      "startDate": "2021-10-27",
+      "vtSymbol": "SP2112.SHFE"
+    },
+    {
+      "startDate": "2021-11-18",
+      "vtSymbol": "SP2201.SHFE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "SP2205.SHFE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "SP2206.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "SP2207.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "SP2208.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "SP2209.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "SP2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "SP2211.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "SP2212.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "SP2301.SHFE"
+    }
+  ]
+}

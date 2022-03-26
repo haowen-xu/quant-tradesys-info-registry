@@ -1,0 +1,385 @@
+{
+  "name": "ZN主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "ZN1503.SHFE"
+    },
+    {
+      "startDate": "2015-01-30",
+      "vtSymbol": "ZN1504.SHFE"
+    },
+    {
+      "startDate": "2015-02-25",
+      "vtSymbol": "ZN1505.SHFE"
+    },
+    {
+      "startDate": "2015-03-26",
+      "vtSymbol": "ZN1506.SHFE"
+    },
+    {
+      "startDate": "2015-04-28",
+      "vtSymbol": "ZN1507.SHFE"
+    },
+    {
+      "startDate": "2015-05-26",
+      "vtSymbol": "ZN1508.SHFE"
+    },
+    {
+      "startDate": "2015-06-26",
+      "vtSymbol": "ZN1509.SHFE"
+    },
+    {
+      "startDate": "2015-07-31",
+      "vtSymbol": "ZN1510.SHFE"
+    },
+    {
+      "startDate": "2015-09-02",
+      "vtSymbol": "ZN1511.SHFE"
+    },
+    {
+      "startDate": "2015-10-09",
+      "vtSymbol": "ZN1512.SHFE"
+    },
+    {
+      "startDate": "2015-11-03",
+      "vtSymbol": "ZN1601.SHFE"
+    },
+    {
+      "startDate": "2015-12-02",
+      "vtSymbol": "ZN1602.SHFE"
+    },
+    {
+      "startDate": "2016-01-06",
+      "vtSymbol": "ZN1603.SHFE"
+    },
+    {
+      "startDate": "2016-02-04",
+      "vtSymbol": "ZN1604.SHFE"
+    },
+    {
+      "startDate": "2016-03-03",
+      "vtSymbol": "ZN1605.SHFE"
+    },
+    {
+      "startDate": "2016-04-05",
+      "vtSymbol": "ZN1606.SHFE"
+    },
+    {
+      "startDate": "2016-05-05",
+      "vtSymbol": "ZN1607.SHFE"
+    },
+    {
+      "startDate": "2016-06-02",
+      "vtSymbol": "ZN1608.SHFE"
+    },
+    {
+      "startDate": "2016-07-04",
+      "vtSymbol": "ZN1609.SHFE"
+    },
+    {
+      "startDate": "2016-08-03",
+      "vtSymbol": "ZN1610.SHFE"
+    },
+    {
+      "startDate": "2016-09-05",
+      "vtSymbol": "ZN1611.SHFE"
+    },
+    {
+      "startDate": "2016-10-11",
+      "vtSymbol": "ZN1612.SHFE"
+    },
+    {
+      "startDate": "2016-11-02",
+      "vtSymbol": "ZN1701.SHFE"
+    },
+    {
+      "startDate": "2016-12-05",
+      "vtSymbol": "ZN1702.SHFE"
+    },
+    {
+      "startDate": "2017-01-04",
+      "vtSymbol": "ZN1703.SHFE"
+    },
+    {
+      "startDate": "2017-02-16",
+      "vtSymbol": "ZN1704.SHFE"
+    },
+    {
+      "startDate": "2017-03-10",
+      "vtSymbol": "ZN1705.SHFE"
+    },
+    {
+      "startDate": "2017-04-12",
+      "vtSymbol": "ZN1706.SHFE"
+    },
+    {
+      "startDate": "2017-05-15",
+      "vtSymbol": "ZN1707.SHFE"
+    },
+    {
+      "startDate": "2017-06-13",
+      "vtSymbol": "ZN1708.SHFE"
+    },
+    {
+      "startDate": "2017-07-11",
+      "vtSymbol": "ZN1709.SHFE"
+    },
+    {
+      "startDate": "2017-08-09",
+      "vtSymbol": "ZN1710.SHFE"
+    },
+    {
+      "startDate": "2017-09-07",
+      "vtSymbol": "ZN1711.SHFE"
+    },
+    {
+      "startDate": "2017-10-10",
+      "vtSymbol": "ZN1712.SHFE"
+    },
+    {
+      "startDate": "2017-10-30",
+      "vtSymbol": "ZN1801.SHFE"
+    },
+    {
+      "startDate": "2017-12-07",
+      "vtSymbol": "ZN1802.SHFE"
+    },
+    {
+      "startDate": "2018-01-08",
+      "vtSymbol": "ZN1803.SHFE"
+    },
+    {
+      "startDate": "2018-02-12",
+      "vtSymbol": "ZN1804.SHFE"
+    },
+    {
+      "startDate": "2018-03-07",
+      "vtSymbol": "ZN1805.SHFE"
+    },
+    {
+      "startDate": "2018-04-10",
+      "vtSymbol": "ZN1806.SHFE"
+    },
+    {
+      "startDate": "2018-05-09",
+      "vtSymbol": "ZN1807.SHFE"
+    },
+    {
+      "startDate": "2018-06-12",
+      "vtSymbol": "ZN1808.SHFE"
+    },
+    {
+      "startDate": "2018-07-12",
+      "vtSymbol": "ZN1809.SHFE"
+    },
+    {
+      "startDate": "2018-08-01",
+      "vtSymbol": "ZN1810.SHFE"
+    },
+    {
+      "startDate": "2018-09-13",
+      "vtSymbol": "ZN1811.SHFE"
+    },
+    {
+      "startDate": "2018-10-23",
+      "vtSymbol": "ZN1812.SHFE"
+    },
+    {
+      "startDate": "2018-11-09",
+      "vtSymbol": "ZN1901.SHFE"
+    },
+    {
+      "startDate": "2018-12-10",
+      "vtSymbol": "ZN1902.SHFE"
+    },
+    {
+      "startDate": "2019-01-11",
+      "vtSymbol": "ZN1903.SHFE"
+    },
+    {
+      "startDate": "2019-02-19",
+      "vtSymbol": "ZN1904.SHFE"
+    },
+    {
+      "startDate": "2019-03-11",
+      "vtSymbol": "ZN1905.SHFE"
+    },
+    {
+      "startDate": "2019-04-12",
+      "vtSymbol": "ZN1906.SHFE"
+    },
+    {
+      "startDate": "2019-05-16",
+      "vtSymbol": "ZN1907.SHFE"
+    },
+    {
+      "startDate": "2019-06-14",
+      "vtSymbol": "ZN1908.SHFE"
+    },
+    {
+      "startDate": "2019-07-11",
+      "vtSymbol": "ZN1909.SHFE"
+    },
+    {
+      "startDate": "2019-08-08",
+      "vtSymbol": "ZN1910.SHFE"
+    },
+    {
+      "startDate": "2019-09-10",
+      "vtSymbol": "ZN1911.SHFE"
+    },
+    {
+      "startDate": "2019-10-16",
+      "vtSymbol": "ZN1912.SHFE"
+    },
+    {
+      "startDate": "2019-11-13",
+      "vtSymbol": "ZN2001.SHFE"
+    },
+    {
+      "startDate": "2019-12-10",
+      "vtSymbol": "ZN2002.SHFE"
+    },
+    {
+      "startDate": "2020-01-08",
+      "vtSymbol": "ZN2003.SHFE"
+    },
+    {
+      "startDate": "2020-02-11",
+      "vtSymbol": "ZN2004.SHFE"
+    },
+    {
+      "startDate": "2020-03-09",
+      "vtSymbol": "ZN2005.SHFE"
+    },
+    {
+      "startDate": "2020-04-09",
+      "vtSymbol": "ZN2006.SHFE"
+    },
+    {
+      "startDate": "2020-05-11",
+      "vtSymbol": "ZN2007.SHFE"
+    },
+    {
+      "startDate": "2020-06-22",
+      "vtSymbol": "ZN2008.SHFE"
+    },
+    {
+      "startDate": "2020-07-22",
+      "vtSymbol": "ZN2009.SHFE"
+    },
+    {
+      "startDate": "2020-08-24",
+      "vtSymbol": "ZN2010.SHFE"
+    },
+    {
+      "startDate": "2020-09-24",
+      "vtSymbol": "ZN2011.SHFE"
+    },
+    {
+      "startDate": "2020-10-28",
+      "vtSymbol": "ZN2012.SHFE"
+    },
+    {
+      "startDate": "2020-11-25",
+      "vtSymbol": "ZN2101.SHFE"
+    },
+    {
+      "startDate": "2020-12-22",
+      "vtSymbol": "ZN2102.SHFE"
+    },
+    {
+      "startDate": "2021-01-18",
+      "vtSymbol": "ZN2103.SHFE"
+    },
+    {
+      "startDate": "2021-02-24",
+      "vtSymbol": "ZN2104.SHFE"
+    },
+    {
+      "startDate": "2021-03-22",
+      "vtSymbol": "ZN2105.SHFE"
+    },
+    {
+      "startDate": "2021-04-21",
+      "vtSymbol": "ZN2106.SHFE"
+    },
+    {
+      "startDate": "2021-05-24",
+      "vtSymbol": "ZN2107.SHFE"
+    },
+    {
+      "startDate": "2021-06-25",
+      "vtSymbol": "ZN2108.SHFE"
+    },
+    {
+      "startDate": "2021-07-27",
+      "vtSymbol": "ZN2109.SHFE"
+    },
+    {
+      "startDate": "2021-08-24",
+      "vtSymbol": "ZN2110.SHFE"
+    },
+    {
+      "startDate": "2021-09-27",
+      "vtSymbol": "ZN2111.SHFE"
+    },
+    {
+      "startDate": "2021-10-26",
+      "vtSymbol": "ZN2112.SHFE"
+    },
+    {
+      "startDate": "2021-11-15",
+      "vtSymbol": "ZN2201.SHFE"
+    },
+    {
+      "startDate": "2021-12-23",
+      "vtSymbol": "ZN2202.SHFE"
+    },
+    {
+      "startDate": "2022-01-20",
+      "vtSymbol": "ZN2203.SHFE"
+    },
+    {
+      "startDate": "2022-02-22",
+      "vtSymbol": "ZN2204.SHFE"
+    },
+    {
+      "startDate": "2022-03-21",
+      "vtSymbol": "ZN2205.SHFE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "ZN2206.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "ZN2207.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "ZN2208.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "ZN2209.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "ZN2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "ZN2211.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "ZN2212.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "ZN2301.SHFE"
+    }
+  ]
+}

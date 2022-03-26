@@ -1,0 +1,113 @@
+{
+  "name": "I主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "I1505.DCE"
+    },
+    {
+      "startDate": "2015-03-09",
+      "vtSymbol": "I1509.DCE"
+    },
+    {
+      "startDate": "2015-07-16",
+      "vtSymbol": "I1601.DCE"
+    },
+    {
+      "startDate": "2015-11-24",
+      "vtSymbol": "I1605.DCE"
+    },
+    {
+      "startDate": "2016-03-22",
+      "vtSymbol": "I1609.DCE"
+    },
+    {
+      "startDate": "2016-08-12",
+      "vtSymbol": "I1701.DCE"
+    },
+    {
+      "startDate": "2016-11-28",
+      "vtSymbol": "I1705.DCE"
+    },
+    {
+      "startDate": "2017-03-22",
+      "vtSymbol": "I1709.DCE"
+    },
+    {
+      "startDate": "2017-08-02",
+      "vtSymbol": "I1801.DCE"
+    },
+    {
+      "startDate": "2017-11-23",
+      "vtSymbol": "I1805.DCE"
+    },
+    {
+      "startDate": "2018-04-04",
+      "vtSymbol": "I1809.DCE"
+    },
+    {
+      "startDate": "2018-08-08",
+      "vtSymbol": "I1901.DCE"
+    },
+    {
+      "startDate": "2018-12-04",
+      "vtSymbol": "I1905.DCE"
+    },
+    {
+      "startDate": "2019-04-09",
+      "vtSymbol": "I1909.DCE"
+    },
+    {
+      "startDate": "2019-07-23",
+      "vtSymbol": "I2001.DCE"
+    },
+    {
+      "startDate": "2019-12-05",
+      "vtSymbol": "I2005.DCE"
+    },
+    {
+      "startDate": "2020-04-01",
+      "vtSymbol": "I2009.DCE"
+    },
+    {
+      "startDate": "2020-08-11",
+      "vtSymbol": "I2101.DCE"
+    },
+    {
+      "startDate": "2020-12-08",
+      "vtSymbol": "I2105.DCE"
+    },
+    {
+      "startDate": "2021-04-01",
+      "vtSymbol": "I2109.DCE"
+    },
+    {
+      "startDate": "2021-08-05",
+      "vtSymbol": "I2201.DCE"
+    },
+    {
+      "startDate": "2021-12-02",
+      "vtSymbol": "I2205.DCE"
+    },
+    {
+      "startDate": "2022-03-25",
+      "vtSymbol": "I2209.DCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "I2210.DCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "I2211.DCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "I2212.DCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "I2301.DCE"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "PF次月",
+  "mapping": [
+    {
+      "startDate": "2020-10-12",
+      "vtSymbol": "PF2106.CZCE"
+    },
+    {
+      "startDate": "2021-04-19",
+      "vtSymbol": "PF2108.CZCE"
+    },
+    {
+      "startDate": "2021-05-14",
+      "vtSymbol": "PF2110.CZCE"
+    },
+    {
+      "startDate": "2021-08-24",
+      "vtSymbol": "PF2202.CZCE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "PF2206.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "PF2207.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "PF2208.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "PF2209.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "PF2210.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "PF2211.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "PF2212.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "PF2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "PF2302.CZCE"
+    }
+  ]
+}

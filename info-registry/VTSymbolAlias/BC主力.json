@@ -1,0 +1,93 @@
+{
+  "name": "BC主力",
+  "mapping": [
+    {
+      "startDate": "2020-11-19",
+      "vtSymbol": "BC2103.INE"
+    },
+    {
+      "startDate": "2021-02-03",
+      "vtSymbol": "BC2105.INE"
+    },
+    {
+      "startDate": "2021-04-07",
+      "vtSymbol": "BC2106.INE"
+    },
+    {
+      "startDate": "2021-05-10",
+      "vtSymbol": "BC2107.INE"
+    },
+    {
+      "startDate": "2021-06-04",
+      "vtSymbol": "BC2108.INE"
+    },
+    {
+      "startDate": "2021-07-05",
+      "vtSymbol": "BC2109.INE"
+    },
+    {
+      "startDate": "2021-08-02",
+      "vtSymbol": "BC2110.INE"
+    },
+    {
+      "startDate": "2021-08-30",
+      "vtSymbol": "BC2111.INE"
+    },
+    {
+      "startDate": "2021-09-29",
+      "vtSymbol": "BC2112.INE"
+    },
+    {
+      "startDate": "2021-11-01",
+      "vtSymbol": "BC2201.INE"
+    },
+    {
+      "startDate": "2021-12-02",
+      "vtSymbol": "BC2202.INE"
+    },
+    {
+      "startDate": "2021-12-28",
+      "vtSymbol": "BC2203.INE"
+    },
+    {
+      "startDate": "2022-02-14",
+      "vtSymbol": "BC2204.INE"
+    },
+    {
+      "startDate": "2022-03-08",
+      "vtSymbol": "BC2205.INE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "BC2206.INE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "BC2207.INE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "BC2208.INE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "BC2209.INE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "BC2210.INE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "BC2211.INE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "BC2212.INE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "BC2301.INE"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "CJ次月",
+  "mapping": [
+    {
+      "startDate": "2019-04-30",
+      "vtSymbol": "CJ2001.CZCE"
+    },
+    {
+      "startDate": "2019-11-08",
+      "vtSymbol": "CJ2003.CZCE"
+    },
+    {
+      "startDate": "2019-12-06",
+      "vtSymbol": "CJ2007.CZCE"
+    },
+    {
+      "startDate": "2020-04-09",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-08-21",
+      "vtSymbol": "CJ2103.CZCE"
+    },
+    {
+      "startDate": "2020-12-21",
+      "vtSymbol": "CJ2107.CZCE"
+    },
+    {
+      "startDate": "2021-04-13",
+      "vtSymbol": "CJ2112.CZCE"
+    },
+    {
+      "startDate": "2021-07-22",
+      "vtSymbol": "CJ2203.CZCE"
+    },
+    {
+      "startDate": "2021-11-23",
+      "vtSymbol": "CJ2207.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "CJ2209.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "CJ2212.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "CJ2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "CJ2303.CZCE"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "name": "LU次主力",
+  "mapping": [
+    {
+      "startDate": "2020-06-22",
+      "vtSymbol": "LU2105.INE"
+    },
+    {
+      "startDate": "2020-07-24",
+      "vtSymbol": "LU2102.INE"
+    },
+    {
+      "startDate": "2020-07-27",
+      "vtSymbol": "LU2105.INE"
+    },
+    {
+      "startDate": "2020-07-28",
+      "vtSymbol": "LU2102.INE"
+    },
+    {
+      "startDate": "2020-08-28",
+      "vtSymbol": "LU2104.INE"
+    },
+    {
+      "startDate": "2020-08-31",
+      "vtSymbol": "LU2103.INE"
+    },
+    {
+      "startDate": "2020-09-04",
+      "vtSymbol": "LU2102.INE"
+    },
+    {
+      "startDate": "2020-09-29",
+      "vtSymbol": "LU2103.INE"
+    },
+    {
+      "startDate": "2020-10-15",
+      "vtSymbol": "LU2104.INE"
+    },
+    {
+      "startDate": "2020-10-19",
+      "vtSymbol": "LU2103.INE"
+    },
+    {
+      "startDate": "2020-10-20",
+      "vtSymbol": "LU2104.INE"
+    },
+    {
+      "startDate": "2020-10-23",
+      "vtSymbol": "LU2103.INE"
+    },
+    {
+      "startDate": "2020-11-30",
+      "vtSymbol": "LU2101.INE"
+    },
+    {
+      "startDate": "2020-12-02",
+      "vtSymbol": "LU2104.INE"
+    },
+    {
+      "startDate": "2021-01-06",
+      "vtSymbol": "LU2103.INE"
+    },
+    {
+      "startDate": "2021-01-08",
+      "vtSymbol": "LU2105.INE"
+    },
+    {
+      "startDate": "2021-02-03",
+      "vtSymbol": "LU2104.INE"
+    },
+    {
+      "startDate": "2021-02-26",
+      "vtSymbol": "LU2106.INE"
+    },
+    {
+      "startDate": "2021-03-11",
+      "vtSymbol": "LU2105.INE"
+    },
+    {
+      "startDate": "2021-03-29",
+      "vtSymbol": "LU2107.INE"
+    },
+    {
+      "startDate": "2021-04-13",
+      "vtSymbol": "LU2106.INE"
+    },
+    {
+      "startDate": "2021-04-27",
+      "vtSymbol": "LU2108.INE"
+    },
+    {
+      "startDate": "2021-05-07",
+      "vtSymbol": "LU2107.INE"
+    },
+    {
+      "startDate": "2021-05-26",
+      "vtSymbol": "LU2109.INE"
+    },
+    {
+      "startDate": "2021-06-03",
+      "vtSymbol": "LU2108.INE"
+    },
+    {
+      "startDate": "2021-06-29",
+      "vtSymbol": "LU2110.INE"
+    },
+    {
+      "startDate": "2021-07-08",
+      "vtSymbol": "LU2109.INE"
+    },
+    {
+      "startDate": "2021-07-27",
+      "vtSymbol": "LU2111.INE"
+    },
+    {
+      "startDate": "2021-08-06",
+      "vtSymbol": "LU2110.INE"
+    },
+    {
+      "startDate": "2021-08-27",
+      "vtSymbol": "LU2112.INE"
+    },
+    {
+      "startDate": "2021-09-06",
+      "vtSymbol": "LU2111.INE"
+    },
+    {
+      "startDate": "2021-09-14",
+      "vtSymbol": "LU2201.INE"
+    },
+    {
+      "startDate": "2021-10-11",
+      "vtSymbol": "LU2112.INE"
+    },
+    {
+      "startDate": "2021-10-27",
+      "vtSymbol": "LU2202.INE"
+    },
+    {
+      "startDate": "2021-11-19",
+      "vtSymbol": "LU2201.INE"
+    },
+    {
+      "startDate": "2021-11-29",
+      "vtSymbol": "LU2203.INE"
+    },
+    {
+      "startDate": "2021-12-16",
+      "vtSymbol": "LU2202.INE"
+    },
+    {
+      "startDate": "2021-12-21",
+      "vtSymbol": "LU2204.INE"
+    },
+    {
+      "startDate": "2022-01-04",
+      "vtSymbol": "LU2203.INE"
+    },
+    {
+      "startDate": "2022-01-07",
+      "vtSymbol": "LU2205.INE"
+    },
+    {
+      "startDate": "2022-02-09",
+      "vtSymbol": "LU2204.INE"
+    },
+    {
+      "startDate": "2022-02-14",
+      "vtSymbol": "LU2206.INE"
+    },
+    {
+      "startDate": "2022-03-22",
+      "vtSymbol": "LU2205.INE"
+    },
+    {
+      "startDate": "2022-03-25",
+      "vtSymbol": "LU2207.INE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "LU2205.INE"
+    },
+    {
+      "startDate": "2022-04-18",
+      "vtSymbol": "LU2207.INE"
+    },
+    {
+      "startDate": "2022-05-18",
+      "vtSymbol": "LU2208.INE"
+    },
+    {
+      "startDate": "2022-06-17",
+      "vtSymbol": "LU2209.INE"
+    },
+    {
+      "startDate": "2022-07-18",
+      "vtSymbol": "LU2210.INE"
+    },
+    {
+      "startDate": "2022-08-18",
+      "vtSymbol": "LU2211.INE"
+    },
+    {
+      "startDate": "2022-09-09",
+      "vtSymbol": "LU2212.INE"
+    },
+    {
+      "startDate": "2022-10-18",
+      "vtSymbol": "LU2301.INE"
+    },
+    {
+      "startDate": "2022-11-17",
+      "vtSymbol": "LU2302.INE"
+    },
+    {
+      "startDate": "2022-12-09",
+      "vtSymbol": "LU2303.INE"
+    }
+  ]
+}

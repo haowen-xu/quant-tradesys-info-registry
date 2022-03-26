@@ -1,0 +1,105 @@
+{
+  "name": "CY前主力",
+  "mapping": [
+    {
+      "startDate": "2017-12-01",
+      "vtSymbol": "CY1801.CZCE"
+    },
+    {
+      "startDate": "2018-01-05",
+      "vtSymbol": "CY1809.CZCE"
+    },
+    {
+      "startDate": "2018-01-25",
+      "vtSymbol": "CY1811.CZCE"
+    },
+    {
+      "startDate": "2018-01-26",
+      "vtSymbol": "CY1812.CZCE"
+    },
+    {
+      "startDate": "2018-07-31",
+      "vtSymbol": "CY1901.CZCE"
+    },
+    {
+      "startDate": "2018-08-22",
+      "vtSymbol": "CY1906.CZCE"
+    },
+    {
+      "startDate": "2018-10-29",
+      "vtSymbol": "CY1908.CZCE"
+    },
+    {
+      "startDate": "2018-10-30",
+      "vtSymbol": "CY1909.CZCE"
+    },
+    {
+      "startDate": "2018-12-25",
+      "vtSymbol": "CY1910.CZCE"
+    },
+    {
+      "startDate": "2019-04-16",
+      "vtSymbol": "CY1911.CZCE"
+    },
+    {
+      "startDate": "2019-12-04",
+      "vtSymbol": "CY2001.CZCE"
+    },
+    {
+      "startDate": "2020-04-08",
+      "vtSymbol": "CY2005.CZCE"
+    },
+    {
+      "startDate": "2020-08-11",
+      "vtSymbol": "CY2009.CZCE"
+    },
+    {
+      "startDate": "2020-12-08",
+      "vtSymbol": "CY2101.CZCE"
+    },
+    {
+      "startDate": "2021-04-12",
+      "vtSymbol": "CY2105.CZCE"
+    },
+    {
+      "startDate": "2021-08-13",
+      "vtSymbol": "CY2109.CZCE"
+    },
+    {
+      "startDate": "2021-12-28",
+      "vtSymbol": "CY2201.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "CY2205.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "CY2206.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "CY2207.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "CY2208.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "CY2209.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "CY2210.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "CY2211.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "CY2212.CZCE"
+    }
+  ]
+}

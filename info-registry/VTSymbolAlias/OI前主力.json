@@ -1,0 +1,109 @@
+{
+  "name": "OI前主力",
+  "mapping": [
+    {
+      "startDate": "2015-03-11",
+      "vtSymbol": "OI1505.CZCE"
+    },
+    {
+      "startDate": "2015-06-11",
+      "vtSymbol": "OI1509.CZCE"
+    },
+    {
+      "startDate": "2015-11-04",
+      "vtSymbol": "OI1601.CZCE"
+    },
+    {
+      "startDate": "2016-03-11",
+      "vtSymbol": "OI1605.CZCE"
+    },
+    {
+      "startDate": "2016-07-13",
+      "vtSymbol": "OI1609.CZCE"
+    },
+    {
+      "startDate": "2016-11-28",
+      "vtSymbol": "OI1701.CZCE"
+    },
+    {
+      "startDate": "2017-03-24",
+      "vtSymbol": "OI1705.CZCE"
+    },
+    {
+      "startDate": "2017-08-02",
+      "vtSymbol": "OI1709.CZCE"
+    },
+    {
+      "startDate": "2017-11-27",
+      "vtSymbol": "OI1801.CZCE"
+    },
+    {
+      "startDate": "2018-03-29",
+      "vtSymbol": "OI1805.CZCE"
+    },
+    {
+      "startDate": "2018-07-31",
+      "vtSymbol": "OI1809.CZCE"
+    },
+    {
+      "startDate": "2018-12-06",
+      "vtSymbol": "OI1901.CZCE"
+    },
+    {
+      "startDate": "2019-04-11",
+      "vtSymbol": "OI1905.CZCE"
+    },
+    {
+      "startDate": "2019-08-06",
+      "vtSymbol": "OI1909.CZCE"
+    },
+    {
+      "startDate": "2019-12-11",
+      "vtSymbol": "OI2001.CZCE"
+    },
+    {
+      "startDate": "2020-04-03",
+      "vtSymbol": "OI2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-30",
+      "vtSymbol": "OI2007.CZCE"
+    },
+    {
+      "startDate": "2020-08-18",
+      "vtSymbol": "OI2009.CZCE"
+    },
+    {
+      "startDate": "2020-12-16",
+      "vtSymbol": "OI2101.CZCE"
+    },
+    {
+      "startDate": "2021-04-16",
+      "vtSymbol": "OI2105.CZCE"
+    },
+    {
+      "startDate": "2021-08-18",
+      "vtSymbol": "OI2109.CZCE"
+    },
+    {
+      "startDate": "2021-12-14",
+      "vtSymbol": "OI2201.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "OI2205.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "OI2207.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "OI2209.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "OI2211.CZCE"
+    }
+  ]
+}

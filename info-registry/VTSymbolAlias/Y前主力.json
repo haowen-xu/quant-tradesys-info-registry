@@ -1,0 +1,105 @@
+{
+  "name": "Y前主力",
+  "mapping": [
+    {
+      "startDate": "2015-03-04",
+      "vtSymbol": "Y1505.DCE"
+    },
+    {
+      "startDate": "2015-06-16",
+      "vtSymbol": "Y1509.DCE"
+    },
+    {
+      "startDate": "2015-11-25",
+      "vtSymbol": "Y1601.DCE"
+    },
+    {
+      "startDate": "2016-03-11",
+      "vtSymbol": "Y1605.DCE"
+    },
+    {
+      "startDate": "2016-07-18",
+      "vtSymbol": "Y1609.DCE"
+    },
+    {
+      "startDate": "2016-11-24",
+      "vtSymbol": "Y1701.DCE"
+    },
+    {
+      "startDate": "2017-03-21",
+      "vtSymbol": "Y1705.DCE"
+    },
+    {
+      "startDate": "2017-07-31",
+      "vtSymbol": "Y1709.DCE"
+    },
+    {
+      "startDate": "2017-11-30",
+      "vtSymbol": "Y1801.DCE"
+    },
+    {
+      "startDate": "2018-03-26",
+      "vtSymbol": "Y1805.DCE"
+    },
+    {
+      "startDate": "2018-07-27",
+      "vtSymbol": "Y1809.DCE"
+    },
+    {
+      "startDate": "2018-12-05",
+      "vtSymbol": "Y1901.DCE"
+    },
+    {
+      "startDate": "2019-04-04",
+      "vtSymbol": "Y1905.DCE"
+    },
+    {
+      "startDate": "2019-08-05",
+      "vtSymbol": "Y1909.DCE"
+    },
+    {
+      "startDate": "2019-11-29",
+      "vtSymbol": "Y2001.DCE"
+    },
+    {
+      "startDate": "2020-03-26",
+      "vtSymbol": "Y2005.DCE"
+    },
+    {
+      "startDate": "2020-08-06",
+      "vtSymbol": "Y2009.DCE"
+    },
+    {
+      "startDate": "2020-12-14",
+      "vtSymbol": "Y2101.DCE"
+    },
+    {
+      "startDate": "2021-04-12",
+      "vtSymbol": "Y2105.DCE"
+    },
+    {
+      "startDate": "2021-08-17",
+      "vtSymbol": "Y2109.DCE"
+    },
+    {
+      "startDate": "2021-12-10",
+      "vtSymbol": "Y2201.DCE"
+    },
+    {
+      "startDate": "2022-03-25",
+      "vtSymbol": "Y2205.DCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "Y2209.DCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "Y2211.DCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "Y2212.DCE"
+    }
+  ]
+}

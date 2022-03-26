@@ -1,0 +1,125 @@
+{
+  "name": "MA主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "MA1506.CZCE"
+    },
+    {
+      "startDate": "2015-04-14",
+      "vtSymbol": "MA1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-03",
+      "vtSymbol": "MA1601.CZCE"
+    },
+    {
+      "startDate": "2015-11-27",
+      "vtSymbol": "MA1605.CZCE"
+    },
+    {
+      "startDate": "2016-04-07",
+      "vtSymbol": "MA1609.CZCE"
+    },
+    {
+      "startDate": "2016-08-10",
+      "vtSymbol": "MA1701.CZCE"
+    },
+    {
+      "startDate": "2016-12-02",
+      "vtSymbol": "MA1705.CZCE"
+    },
+    {
+      "startDate": "2017-04-10",
+      "vtSymbol": "MA1709.CZCE"
+    },
+    {
+      "startDate": "2017-08-07",
+      "vtSymbol": "MA1801.CZCE"
+    },
+    {
+      "startDate": "2017-12-12",
+      "vtSymbol": "MA1805.CZCE"
+    },
+    {
+      "startDate": "2018-04-12",
+      "vtSymbol": "MA1809.CZCE"
+    },
+    {
+      "startDate": "2018-08-09",
+      "vtSymbol": "MA1901.CZCE"
+    },
+    {
+      "startDate": "2018-12-12",
+      "vtSymbol": "MA1905.CZCE"
+    },
+    {
+      "startDate": "2019-04-15",
+      "vtSymbol": "MA1909.CZCE"
+    },
+    {
+      "startDate": "2019-08-19",
+      "vtSymbol": "MA2001.CZCE"
+    },
+    {
+      "startDate": "2019-12-16",
+      "vtSymbol": "MA2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-14",
+      "vtSymbol": "MA2009.CZCE"
+    },
+    {
+      "startDate": "2020-08-18",
+      "vtSymbol": "MA2101.CZCE"
+    },
+    {
+      "startDate": "2020-12-14",
+      "vtSymbol": "MA2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-16",
+      "vtSymbol": "MA2109.CZCE"
+    },
+    {
+      "startDate": "2021-08-16",
+      "vtSymbol": "MA2201.CZCE"
+    },
+    {
+      "startDate": "2021-12-15",
+      "vtSymbol": "MA2205.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "MA2206.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "MA2207.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "MA2208.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "MA2209.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "MA2210.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "MA2211.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "MA2212.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "MA2301.CZCE"
+    }
+  ]
+}

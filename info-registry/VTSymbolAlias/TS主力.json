@@ -1,0 +1,73 @@
+{
+  "name": "TS主力",
+  "mapping": [
+    {
+      "startDate": "2018-08-17",
+      "vtSymbol": "TS1812.CFFEX"
+    },
+    {
+      "startDate": "2018-11-19",
+      "vtSymbol": "TS1903.CFFEX"
+    },
+    {
+      "startDate": "2019-02-18",
+      "vtSymbol": "TS1906.CFFEX"
+    },
+    {
+      "startDate": "2019-05-23",
+      "vtSymbol": "TS1909.CFFEX"
+    },
+    {
+      "startDate": "2019-08-20",
+      "vtSymbol": "TS1912.CFFEX"
+    },
+    {
+      "startDate": "2019-11-13",
+      "vtSymbol": "TS2003.CFFEX"
+    },
+    {
+      "startDate": "2020-02-20",
+      "vtSymbol": "TS2006.CFFEX"
+    },
+    {
+      "startDate": "2020-05-18",
+      "vtSymbol": "TS2009.CFFEX"
+    },
+    {
+      "startDate": "2020-08-24",
+      "vtSymbol": "TS2012.CFFEX"
+    },
+    {
+      "startDate": "2020-11-23",
+      "vtSymbol": "TS2103.CFFEX"
+    },
+    {
+      "startDate": "2021-02-22",
+      "vtSymbol": "TS2106.CFFEX"
+    },
+    {
+      "startDate": "2021-05-20",
+      "vtSymbol": "TS2109.CFFEX"
+    },
+    {
+      "startDate": "2021-08-20",
+      "vtSymbol": "TS2112.CFFEX"
+    },
+    {
+      "startDate": "2021-11-22",
+      "vtSymbol": "TS2203.CFFEX"
+    },
+    {
+      "startDate": "2022-02-21",
+      "vtSymbol": "TS2206.CFFEX"
+    },
+    {
+      "startDate": "2022-05-20",
+      "vtSymbol": "TS2209.CFFEX"
+    },
+    {
+      "startDate": "2022-08-22",
+      "vtSymbol": "TS2212.CFFEX"
+    }
+  ]
+}

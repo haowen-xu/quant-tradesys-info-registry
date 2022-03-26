@@ -1,0 +1,73 @@
+{
+  "name": "AP次月",
+  "mapping": [
+    {
+      "startDate": "2017-12-22",
+      "vtSymbol": "AP1807.CZCE"
+    },
+    {
+      "startDate": "2018-04-12",
+      "vtSymbol": "AP1811.CZCE"
+    },
+    {
+      "startDate": "2018-07-17",
+      "vtSymbol": "AP1903.CZCE"
+    },
+    {
+      "startDate": "2018-11-15",
+      "vtSymbol": "AP1907.CZCE"
+    },
+    {
+      "startDate": "2019-04-15",
+      "vtSymbol": "AP1911.CZCE"
+    },
+    {
+      "startDate": "2019-09-19",
+      "vtSymbol": "AP2003.CZCE"
+    },
+    {
+      "startDate": "2019-12-18",
+      "vtSymbol": "AP2007.CZCE"
+    },
+    {
+      "startDate": "2020-04-13",
+      "vtSymbol": "AP2011.CZCE"
+    },
+    {
+      "startDate": "2020-09-18",
+      "vtSymbol": "AP2103.CZCE"
+    },
+    {
+      "startDate": "2020-12-16",
+      "vtSymbol": "AP2107.CZCE"
+    },
+    {
+      "startDate": "2021-03-24",
+      "vtSymbol": "AP2111.CZCE"
+    },
+    {
+      "startDate": "2021-09-01",
+      "vtSymbol": "AP2203.CZCE"
+    },
+    {
+      "startDate": "2021-12-17",
+      "vtSymbol": "AP2210.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "AP2211.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "AP2212.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "AP2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "AP2303.CZCE"
+    }
+  ]
+}

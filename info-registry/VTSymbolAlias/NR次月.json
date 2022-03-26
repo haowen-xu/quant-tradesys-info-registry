@@ -1,0 +1,141 @@
+{
+  "name": "NR次月",
+  "mapping": [
+    {
+      "startDate": "2019-08-12",
+      "vtSymbol": "NR2003.INE"
+    },
+    {
+      "startDate": "2019-10-29",
+      "vtSymbol": "NR2005.INE"
+    },
+    {
+      "startDate": "2020-02-27",
+      "vtSymbol": "NR2006.INE"
+    },
+    {
+      "startDate": "2020-04-15",
+      "vtSymbol": "NR2007.INE"
+    },
+    {
+      "startDate": "2020-05-11",
+      "vtSymbol": "NR2008.INE"
+    },
+    {
+      "startDate": "2020-06-01",
+      "vtSymbol": "NR2010.INE"
+    },
+    {
+      "startDate": "2020-07-30",
+      "vtSymbol": "NR2011.INE"
+    },
+    {
+      "startDate": "2020-08-28",
+      "vtSymbol": "NR2012.INE"
+    },
+    {
+      "startDate": "2020-09-29",
+      "vtSymbol": "NR2101.INE"
+    },
+    {
+      "startDate": "2020-10-28",
+      "vtSymbol": "NR2102.INE"
+    },
+    {
+      "startDate": "2020-12-01",
+      "vtSymbol": "NR2103.INE"
+    },
+    {
+      "startDate": "2020-12-29",
+      "vtSymbol": "NR2104.INE"
+    },
+    {
+      "startDate": "2021-02-01",
+      "vtSymbol": "NR2105.INE"
+    },
+    {
+      "startDate": "2021-03-01",
+      "vtSymbol": "NR2106.INE"
+    },
+    {
+      "startDate": "2021-04-01",
+      "vtSymbol": "NR2107.INE"
+    },
+    {
+      "startDate": "2021-05-07",
+      "vtSymbol": "NR2108.INE"
+    },
+    {
+      "startDate": "2021-06-03",
+      "vtSymbol": "NR2109.INE"
+    },
+    {
+      "startDate": "2021-07-02",
+      "vtSymbol": "NR2110.INE"
+    },
+    {
+      "startDate": "2021-08-04",
+      "vtSymbol": "NR2111.INE"
+    },
+    {
+      "startDate": "2021-09-03",
+      "vtSymbol": "NR2112.INE"
+    },
+    {
+      "startDate": "2021-09-29",
+      "vtSymbol": "NR2201.INE"
+    },
+    {
+      "startDate": "2021-10-25",
+      "vtSymbol": "NR2202.INE"
+    },
+    {
+      "startDate": "2021-11-25",
+      "vtSymbol": "NR2203.INE"
+    },
+    {
+      "startDate": "2021-12-20",
+      "vtSymbol": "NR2204.INE"
+    },
+    {
+      "startDate": "2022-01-19",
+      "vtSymbol": "NR2205.INE"
+    },
+    {
+      "startDate": "2022-02-17",
+      "vtSymbol": "NR2206.INE"
+    },
+    {
+      "startDate": "2022-04-28",
+      "vtSymbol": "NR2207.INE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "NR2208.INE"
+    },
+    {
+      "startDate": "2022-07-04",
+      "vtSymbol": "NR2209.INE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "NR2210.INE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "NR2211.INE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "NR2212.INE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "NR2301.INE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "NR2302.INE"
+    }
+  ]
+}

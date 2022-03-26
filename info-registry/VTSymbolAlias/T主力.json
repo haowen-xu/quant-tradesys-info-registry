@@ -1,0 +1,125 @@
+{
+  "name": "T主力",
+  "mapping": [
+    {
+      "startDate": "2015-05-05",
+      "vtSymbol": "T1509.CFFEX"
+    },
+    {
+      "startDate": "2015-08-14",
+      "vtSymbol": "T1512.CFFEX"
+    },
+    {
+      "startDate": "2015-11-23",
+      "vtSymbol": "T1603.CFFEX"
+    },
+    {
+      "startDate": "2016-02-18",
+      "vtSymbol": "T1606.CFFEX"
+    },
+    {
+      "startDate": "2016-05-11",
+      "vtSymbol": "T1609.CFFEX"
+    },
+    {
+      "startDate": "2016-08-11",
+      "vtSymbol": "T1612.CFFEX"
+    },
+    {
+      "startDate": "2016-11-11",
+      "vtSymbol": "T1703.CFFEX"
+    },
+    {
+      "startDate": "2017-01-25",
+      "vtSymbol": "T1706.CFFEX"
+    },
+    {
+      "startDate": "2017-05-11",
+      "vtSymbol": "T1709.CFFEX"
+    },
+    {
+      "startDate": "2017-08-10",
+      "vtSymbol": "T1712.CFFEX"
+    },
+    {
+      "startDate": "2017-11-13",
+      "vtSymbol": "T1803.CFFEX"
+    },
+    {
+      "startDate": "2018-02-12",
+      "vtSymbol": "T1806.CFFEX"
+    },
+    {
+      "startDate": "2018-05-21",
+      "vtSymbol": "T1809.CFFEX"
+    },
+    {
+      "startDate": "2018-08-16",
+      "vtSymbol": "T1812.CFFEX"
+    },
+    {
+      "startDate": "2018-11-19",
+      "vtSymbol": "T1903.CFFEX"
+    },
+    {
+      "startDate": "2019-02-18",
+      "vtSymbol": "T1906.CFFEX"
+    },
+    {
+      "startDate": "2019-05-22",
+      "vtSymbol": "T1909.CFFEX"
+    },
+    {
+      "startDate": "2019-08-15",
+      "vtSymbol": "T1912.CFFEX"
+    },
+    {
+      "startDate": "2019-11-20",
+      "vtSymbol": "T2003.CFFEX"
+    },
+    {
+      "startDate": "2020-02-19",
+      "vtSymbol": "T2006.CFFEX"
+    },
+    {
+      "startDate": "2020-05-15",
+      "vtSymbol": "T2009.CFFEX"
+    },
+    {
+      "startDate": "2020-08-20",
+      "vtSymbol": "T2012.CFFEX"
+    },
+    {
+      "startDate": "2020-11-20",
+      "vtSymbol": "T2103.CFFEX"
+    },
+    {
+      "startDate": "2021-02-19",
+      "vtSymbol": "T2106.CFFEX"
+    },
+    {
+      "startDate": "2021-05-20",
+      "vtSymbol": "T2109.CFFEX"
+    },
+    {
+      "startDate": "2021-08-19",
+      "vtSymbol": "T2112.CFFEX"
+    },
+    {
+      "startDate": "2021-11-22",
+      "vtSymbol": "T2203.CFFEX"
+    },
+    {
+      "startDate": "2022-02-17",
+      "vtSymbol": "T2206.CFFEX"
+    },
+    {
+      "startDate": "2022-05-20",
+      "vtSymbol": "T2209.CFFEX"
+    },
+    {
+      "startDate": "2022-08-22",
+      "vtSymbol": "T2212.CFFEX"
+    }
+  ]
+}

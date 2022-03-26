@@ -1,0 +1,121 @@
+{
+  "name": "TA前主力",
+  "mapping": [
+    {
+      "startDate": "2015-03-27",
+      "vtSymbol": "TA1505.CZCE"
+    },
+    {
+      "startDate": "2015-08-04",
+      "vtSymbol": "TA1509.CZCE"
+    },
+    {
+      "startDate": "2015-11-25",
+      "vtSymbol": "TA1601.CZCE"
+    },
+    {
+      "startDate": "2016-03-29",
+      "vtSymbol": "TA1605.CZCE"
+    },
+    {
+      "startDate": "2016-08-05",
+      "vtSymbol": "TA1609.CZCE"
+    },
+    {
+      "startDate": "2016-11-23",
+      "vtSymbol": "TA1701.CZCE"
+    },
+    {
+      "startDate": "2017-04-07",
+      "vtSymbol": "TA1705.CZCE"
+    },
+    {
+      "startDate": "2017-08-02",
+      "vtSymbol": "TA1709.CZCE"
+    },
+    {
+      "startDate": "2017-11-27",
+      "vtSymbol": "TA1801.CZCE"
+    },
+    {
+      "startDate": "2018-04-02",
+      "vtSymbol": "TA1805.CZCE"
+    },
+    {
+      "startDate": "2018-08-09",
+      "vtSymbol": "TA1809.CZCE"
+    },
+    {
+      "startDate": "2018-11-30",
+      "vtSymbol": "TA1901.CZCE"
+    },
+    {
+      "startDate": "2019-04-11",
+      "vtSymbol": "TA1905.CZCE"
+    },
+    {
+      "startDate": "2019-08-16",
+      "vtSymbol": "TA1909.CZCE"
+    },
+    {
+      "startDate": "2019-12-11",
+      "vtSymbol": "TA2001.CZCE"
+    },
+    {
+      "startDate": "2020-04-01",
+      "vtSymbol": "TA2005.CZCE"
+    },
+    {
+      "startDate": "2020-08-12",
+      "vtSymbol": "TA2009.CZCE"
+    },
+    {
+      "startDate": "2020-12-03",
+      "vtSymbol": "TA2101.CZCE"
+    },
+    {
+      "startDate": "2021-04-02",
+      "vtSymbol": "TA2105.CZCE"
+    },
+    {
+      "startDate": "2021-08-06",
+      "vtSymbol": "TA2109.CZCE"
+    },
+    {
+      "startDate": "2021-12-13",
+      "vtSymbol": "TA2201.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "TA2205.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "TA2206.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "TA2207.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "TA2208.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "TA2209.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "TA2210.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "TA2211.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "TA2212.CZCE"
+    }
+  ]
+}

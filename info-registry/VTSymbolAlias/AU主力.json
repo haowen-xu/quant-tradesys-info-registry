@@ -1,0 +1,93 @@
+{
+  "name": "AU主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "AU1506.SHFE"
+    },
+    {
+      "startDate": "2015-05-15",
+      "vtSymbol": "AU1512.SHFE"
+    },
+    {
+      "startDate": "2015-11-17",
+      "vtSymbol": "AU1606.SHFE"
+    },
+    {
+      "startDate": "2016-05-06",
+      "vtSymbol": "AU1612.SHFE"
+    },
+    {
+      "startDate": "2016-11-14",
+      "vtSymbol": "AU1706.SHFE"
+    },
+    {
+      "startDate": "2017-05-09",
+      "vtSymbol": "AU1712.SHFE"
+    },
+    {
+      "startDate": "2017-11-16",
+      "vtSymbol": "AU1806.SHFE"
+    },
+    {
+      "startDate": "2018-05-08",
+      "vtSymbol": "AU1812.SHFE"
+    },
+    {
+      "startDate": "2018-11-13",
+      "vtSymbol": "AU1906.SHFE"
+    },
+    {
+      "startDate": "2019-05-13",
+      "vtSymbol": "AU1912.SHFE"
+    },
+    {
+      "startDate": "2019-11-20",
+      "vtSymbol": "AU2002.SHFE"
+    },
+    {
+      "startDate": "2019-12-27",
+      "vtSymbol": "AU2006.SHFE"
+    },
+    {
+      "startDate": "2020-05-18",
+      "vtSymbol": "AU2012.SHFE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "AU2102.SHFE"
+    },
+    {
+      "startDate": "2021-01-15",
+      "vtSymbol": "AU2106.SHFE"
+    },
+    {
+      "startDate": "2021-05-28",
+      "vtSymbol": "AU2112.SHFE"
+    },
+    {
+      "startDate": "2021-11-26",
+      "vtSymbol": "AU2202.SHFE"
+    },
+    {
+      "startDate": "2022-01-19",
+      "vtSymbol": "AU2206.SHFE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "AU2208.SHFE"
+    },
+    {
+      "startDate": "2022-08-02",
+      "vtSymbol": "AU2210.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "AU2212.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "AU2302.SHFE"
+    }
+  ]
+}

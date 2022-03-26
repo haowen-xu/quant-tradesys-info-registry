@@ -1,0 +1,641 @@
+{
+  "name": "SM次主力",
+  "mapping": [
+    {
+      "startDate": "2015-01-05",
+      "vtSymbol": "SM1503.CZCE"
+    },
+    {
+      "startDate": "2015-01-09",
+      "vtSymbol": "SM1502.CZCE"
+    },
+    {
+      "startDate": "2015-02-02",
+      "vtSymbol": "SM1503.CZCE"
+    },
+    {
+      "startDate": "2015-03-02",
+      "vtSymbol": "SM1504.CZCE"
+    },
+    {
+      "startDate": "2015-04-01",
+      "vtSymbol": "SM1506.CZCE"
+    },
+    {
+      "startDate": "2015-05-04",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-05-05",
+      "vtSymbol": "SM1506.CZCE"
+    },
+    {
+      "startDate": "2015-05-18",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-05-19",
+      "vtSymbol": "SM1506.CZCE"
+    },
+    {
+      "startDate": "2015-05-20",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-05-21",
+      "vtSymbol": "SM1506.CZCE"
+    },
+    {
+      "startDate": "2015-05-25",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-05-26",
+      "vtSymbol": "SM1506.CZCE"
+    },
+    {
+      "startDate": "2015-06-01",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-06-02",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-06-03",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-06-04",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-06-05",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-06-08",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-06-09",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-06-10",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-06-15",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-06-16",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-06-25",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-06-29",
+      "vtSymbol": "SM1507.CZCE"
+    },
+    {
+      "startDate": "2015-07-01",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-07-03",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-07-06",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-07-09",
+      "vtSymbol": "SM1508.CZCE"
+    },
+    {
+      "startDate": "2015-07-14",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-07-15",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-07-17",
+      "vtSymbol": "SM1508.CZCE"
+    },
+    {
+      "startDate": "2015-07-31",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-08-03",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-17",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-08-19",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-08-24",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-08-31",
+      "vtSymbol": "SM1509.CZCE"
+    },
+    {
+      "startDate": "2015-09-01",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-09-09",
+      "vtSymbol": "SM1510.CZCE"
+    },
+    {
+      "startDate": "2015-09-10",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-09-11",
+      "vtSymbol": "SM1510.CZCE"
+    },
+    {
+      "startDate": "2015-09-17",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-09-21",
+      "vtSymbol": "SM1510.CZCE"
+    },
+    {
+      "startDate": "2015-09-28",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-09-30",
+      "vtSymbol": "SM1510.CZCE"
+    },
+    {
+      "startDate": "2015-10-08",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-12-29",
+      "vtSymbol": "SM1605.CZCE"
+    },
+    {
+      "startDate": "2015-12-30",
+      "vtSymbol": "SM1601.CZCE"
+    },
+    {
+      "startDate": "2015-12-31",
+      "vtSymbol": "SM1605.CZCE"
+    },
+    {
+      "startDate": "2016-05-03",
+      "vtSymbol": "SM1609.CZCE"
+    },
+    {
+      "startDate": "2016-06-02",
+      "vtSymbol": "SM1607.CZCE"
+    },
+    {
+      "startDate": "2016-06-03",
+      "vtSymbol": "SM1609.CZCE"
+    },
+    {
+      "startDate": "2016-09-01",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-09-02",
+      "vtSymbol": "SM1610.CZCE"
+    },
+    {
+      "startDate": "2016-09-06",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-09-07",
+      "vtSymbol": "SM1610.CZCE"
+    },
+    {
+      "startDate": "2016-09-09",
+      "vtSymbol": "SM1708.CZCE"
+    },
+    {
+      "startDate": "2016-09-12",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-09-13",
+      "vtSymbol": "SM1610.CZCE"
+    },
+    {
+      "startDate": "2016-09-14",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-09-19",
+      "vtSymbol": "SM1610.CZCE"
+    },
+    {
+      "startDate": "2016-09-20",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-09-22",
+      "vtSymbol": "SM1709.CZCE"
+    },
+    {
+      "startDate": "2016-09-26",
+      "vtSymbol": "SM1705.CZCE"
+    },
+    {
+      "startDate": "2016-09-28",
+      "vtSymbol": "SM1709.CZCE"
+    },
+    {
+      "startDate": "2016-09-29",
+      "vtSymbol": "SM1610.CZCE"
+    },
+    {
+      "startDate": "2016-09-30",
+      "vtSymbol": "SM1705.CZCE"
+    },
+    {
+      "startDate": "2016-10-10",
+      "vtSymbol": "SM1611.CZCE"
+    },
+    {
+      "startDate": "2016-10-12",
+      "vtSymbol": "SM1612.CZCE"
+    },
+    {
+      "startDate": "2016-10-13",
+      "vtSymbol": "SM1705.CZCE"
+    },
+    {
+      "startDate": "2016-12-15",
+      "vtSymbol": "SM1701.CZCE"
+    },
+    {
+      "startDate": "2017-01-03",
+      "vtSymbol": "SM1709.CZCE"
+    },
+    {
+      "startDate": "2017-04-19",
+      "vtSymbol": "SM1705.CZCE"
+    },
+    {
+      "startDate": "2017-05-02",
+      "vtSymbol": "SM1801.CZCE"
+    },
+    {
+      "startDate": "2017-08-14",
+      "vtSymbol": "SM1709.CZCE"
+    },
+    {
+      "startDate": "2017-09-01",
+      "vtSymbol": "SM1805.CZCE"
+    },
+    {
+      "startDate": "2017-12-22",
+      "vtSymbol": "SM1801.CZCE"
+    },
+    {
+      "startDate": "2018-01-02",
+      "vtSymbol": "SM1809.CZCE"
+    },
+    {
+      "startDate": "2018-04-25",
+      "vtSymbol": "SM1805.CZCE"
+    },
+    {
+      "startDate": "2018-05-02",
+      "vtSymbol": "SM1901.CZCE"
+    },
+    {
+      "startDate": "2018-08-16",
+      "vtSymbol": "SM1809.CZCE"
+    },
+    {
+      "startDate": "2018-09-03",
+      "vtSymbol": "SM1905.CZCE"
+    },
+    {
+      "startDate": "2018-12-24",
+      "vtSymbol": "SM1901.CZCE"
+    },
+    {
+      "startDate": "2019-01-02",
+      "vtSymbol": "SM1909.CZCE"
+    },
+    {
+      "startDate": "2019-01-03",
+      "vtSymbol": "SM1911.CZCE"
+    },
+    {
+      "startDate": "2019-01-04",
+      "vtSymbol": "SM1912.CZCE"
+    },
+    {
+      "startDate": "2019-01-07",
+      "vtSymbol": "SM1909.CZCE"
+    },
+    {
+      "startDate": "2019-01-10",
+      "vtSymbol": "SM1912.CZCE"
+    },
+    {
+      "startDate": "2019-01-14",
+      "vtSymbol": "SM1909.CZCE"
+    },
+    {
+      "startDate": "2019-02-27",
+      "vtSymbol": "SM2001.CZCE"
+    },
+    {
+      "startDate": "2019-03-01",
+      "vtSymbol": "SM1909.CZCE"
+    },
+    {
+      "startDate": "2019-04-23",
+      "vtSymbol": "SM1905.CZCE"
+    },
+    {
+      "startDate": "2019-05-06",
+      "vtSymbol": "SM2001.CZCE"
+    },
+    {
+      "startDate": "2019-05-24",
+      "vtSymbol": "SM1912.CZCE"
+    },
+    {
+      "startDate": "2019-05-27",
+      "vtSymbol": "SM2001.CZCE"
+    },
+    {
+      "startDate": "2019-07-22",
+      "vtSymbol": "SM2005.CZCE"
+    },
+    {
+      "startDate": "2019-07-23",
+      "vtSymbol": "SM2001.CZCE"
+    },
+    {
+      "startDate": "2019-08-27",
+      "vtSymbol": "SM1909.CZCE"
+    },
+    {
+      "startDate": "2019-09-02",
+      "vtSymbol": "SM2005.CZCE"
+    },
+    {
+      "startDate": "2019-09-05",
+      "vtSymbol": "SM2002.CZCE"
+    },
+    {
+      "startDate": "2019-09-06",
+      "vtSymbol": "SM2005.CZCE"
+    },
+    {
+      "startDate": "2019-12-18",
+      "vtSymbol": "SM2001.CZCE"
+    },
+    {
+      "startDate": "2020-01-02",
+      "vtSymbol": "SM2009.CZCE"
+    },
+    {
+      "startDate": "2020-04-14",
+      "vtSymbol": "SM2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-20",
+      "vtSymbol": "SM2010.CZCE"
+    },
+    {
+      "startDate": "2020-04-30",
+      "vtSymbol": "SM2007.CZCE"
+    },
+    {
+      "startDate": "2020-05-22",
+      "vtSymbol": "SM2010.CZCE"
+    },
+    {
+      "startDate": "2020-05-29",
+      "vtSymbol": "SM2008.CZCE"
+    },
+    {
+      "startDate": "2020-07-02",
+      "vtSymbol": "SM2010.CZCE"
+    },
+    {
+      "startDate": "2020-07-03",
+      "vtSymbol": "SM2008.CZCE"
+    },
+    {
+      "startDate": "2020-07-07",
+      "vtSymbol": "SM2101.CZCE"
+    },
+    {
+      "startDate": "2020-07-08",
+      "vtSymbol": "SM2008.CZCE"
+    },
+    {
+      "startDate": "2020-07-09",
+      "vtSymbol": "SM2010.CZCE"
+    },
+    {
+      "startDate": "2020-08-03",
+      "vtSymbol": "SM2101.CZCE"
+    },
+    {
+      "startDate": "2020-08-26",
+      "vtSymbol": "SM2009.CZCE"
+    },
+    {
+      "startDate": "2020-08-28",
+      "vtSymbol": "SM2011.CZCE"
+    },
+    {
+      "startDate": "2020-09-24",
+      "vtSymbol": "SM2012.CZCE"
+    },
+    {
+      "startDate": "2020-11-03",
+      "vtSymbol": "SM2103.CZCE"
+    },
+    {
+      "startDate": "2020-11-27",
+      "vtSymbol": "SM2105.CZCE"
+    },
+    {
+      "startDate": "2020-12-17",
+      "vtSymbol": "SM2101.CZCE"
+    },
+    {
+      "startDate": "2020-12-21",
+      "vtSymbol": "SM2103.CZCE"
+    },
+    {
+      "startDate": "2021-01-05",
+      "vtSymbol": "SM2104.CZCE"
+    },
+    {
+      "startDate": "2021-03-02",
+      "vtSymbol": "SM2106.CZCE"
+    },
+    {
+      "startDate": "2021-03-10",
+      "vtSymbol": "SM2107.CZCE"
+    },
+    {
+      "startDate": "2021-03-15",
+      "vtSymbol": "SM2106.CZCE"
+    },
+    {
+      "startDate": "2021-03-25",
+      "vtSymbol": "SM2109.CZCE"
+    },
+    {
+      "startDate": "2021-04-21",
+      "vtSymbol": "SM2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-26",
+      "vtSymbol": "SM2106.CZCE"
+    },
+    {
+      "startDate": "2021-05-07",
+      "vtSymbol": "SM2107.CZCE"
+    },
+    {
+      "startDate": "2021-06-02",
+      "vtSymbol": "SM2108.CZCE"
+    },
+    {
+      "startDate": "2021-07-02",
+      "vtSymbol": "SM2110.CZCE"
+    },
+    {
+      "startDate": "2021-07-15",
+      "vtSymbol": "SM2201.CZCE"
+    },
+    {
+      "startDate": "2021-08-19",
+      "vtSymbol": "SM2109.CZCE"
+    },
+    {
+      "startDate": "2021-08-25",
+      "vtSymbol": "SM2111.CZCE"
+    },
+    {
+      "startDate": "2021-10-08",
+      "vtSymbol": "SM2112.CZCE"
+    },
+    {
+      "startDate": "2021-10-26",
+      "vtSymbol": "SM2202.CZCE"
+    },
+    {
+      "startDate": "2021-11-12",
+      "vtSymbol": "SM2205.CZCE"
+    },
+    {
+      "startDate": "2021-11-17",
+      "vtSymbol": "SM2202.CZCE"
+    },
+    {
+      "startDate": "2021-11-18",
+      "vtSymbol": "SM2203.CZCE"
+    },
+    {
+      "startDate": "2021-11-19",
+      "vtSymbol": "SM2205.CZCE"
+    },
+    {
+      "startDate": "2021-11-22",
+      "vtSymbol": "SM2202.CZCE"
+    },
+    {
+      "startDate": "2021-11-23",
+      "vtSymbol": "SM2205.CZCE"
+    },
+    {
+      "startDate": "2021-12-22",
+      "vtSymbol": "SM2201.CZCE"
+    },
+    {
+      "startDate": "2021-12-28",
+      "vtSymbol": "SM2203.CZCE"
+    },
+    {
+      "startDate": "2022-01-19",
+      "vtSymbol": "SM2204.CZCE"
+    },
+    {
+      "startDate": "2022-01-24",
+      "vtSymbol": "SM2203.CZCE"
+    },
+    {
+      "startDate": "2022-01-25",
+      "vtSymbol": "SM2204.CZCE"
+    },
+    {
+      "startDate": "2022-02-09",
+      "vtSymbol": "SM2206.CZCE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "SM2204.CZCE"
+    },
+    {
+      "startDate": "2022-04-01",
+      "vtSymbol": "SM2206.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "SM2207.CZCE"
+    },
+    {
+      "startDate": "2022-06-01",
+      "vtSymbol": "SM2208.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "SM2209.CZCE"
+    },
+    {
+      "startDate": "2022-08-01",
+      "vtSymbol": "SM2210.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "SM2211.CZCE"
+    },
+    {
+      "startDate": "2022-10-10",
+      "vtSymbol": "SM2212.CZCE"
+    },
+    {
+      "startDate": "2022-11-01",
+      "vtSymbol": "SM2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "SM2302.CZCE"
+    }
+  ]
+}

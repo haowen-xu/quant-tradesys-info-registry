@@ -1,0 +1,105 @@
+{
+  "name": "EB前主力",
+  "mapping": [
+    {
+      "startDate": "2020-04-15",
+      "vtSymbol": "EB2005.DCE"
+    },
+    {
+      "startDate": "2020-08-24",
+      "vtSymbol": "EB2009.DCE"
+    },
+    {
+      "startDate": "2020-12-22",
+      "vtSymbol": "EB2101.DCE"
+    },
+    {
+      "startDate": "2021-01-26",
+      "vtSymbol": "EB2102.DCE"
+    },
+    {
+      "startDate": "2021-03-01",
+      "vtSymbol": "EB2103.DCE"
+    },
+    {
+      "startDate": "2021-04-27",
+      "vtSymbol": "EB2105.DCE"
+    },
+    {
+      "startDate": "2021-05-27",
+      "vtSymbol": "EB2106.DCE"
+    },
+    {
+      "startDate": "2021-06-23",
+      "vtSymbol": "EB2107.DCE"
+    },
+    {
+      "startDate": "2021-07-22",
+      "vtSymbol": "EB2108.DCE"
+    },
+    {
+      "startDate": "2021-08-18",
+      "vtSymbol": "EB2109.DCE"
+    },
+    {
+      "startDate": "2021-09-28",
+      "vtSymbol": "EB2110.DCE"
+    },
+    {
+      "startDate": "2021-10-26",
+      "vtSymbol": "EB2111.DCE"
+    },
+    {
+      "startDate": "2021-11-22",
+      "vtSymbol": "EB2112.DCE"
+    },
+    {
+      "startDate": "2021-12-17",
+      "vtSymbol": "EB2201.DCE"
+    },
+    {
+      "startDate": "2022-01-25",
+      "vtSymbol": "EB2202.DCE"
+    },
+    {
+      "startDate": "2022-02-25",
+      "vtSymbol": "EB2203.DCE"
+    },
+    {
+      "startDate": "2022-03-21",
+      "vtSymbol": "EB2204.DCE"
+    },
+    {
+      "startDate": "2022-05-13",
+      "vtSymbol": "EB2205.DCE"
+    },
+    {
+      "startDate": "2022-06-14",
+      "vtSymbol": "EB2206.DCE"
+    },
+    {
+      "startDate": "2022-07-13",
+      "vtSymbol": "EB2207.DCE"
+    },
+    {
+      "startDate": "2022-08-15",
+      "vtSymbol": "EB2208.DCE"
+    },
+    {
+      "startDate": "2022-09-14",
+      "vtSymbol": "EB2209.DCE"
+    },
+    {
+      "startDate": "2022-10-13",
+      "vtSymbol": "EB2210.DCE"
+    },
+    {
+      "startDate": "2022-11-14",
+      "vtSymbol": "EB2211.DCE"
+    },
+    {
+      "startDate": "2022-12-14",
+      "vtSymbol": "EB2212.DCE"
+    }
+  ]
+}

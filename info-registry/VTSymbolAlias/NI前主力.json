@@ -1,0 +1,201 @@
+{
+  "name": "NI前主力",
+  "mapping": [
+    {
+      "startDate": "2015-06-03",
+      "vtSymbol": "NI1507.SHFE"
+    },
+    {
+      "startDate": "2015-08-19",
+      "vtSymbol": "NI1509.SHFE"
+    },
+    {
+      "startDate": "2015-12-18",
+      "vtSymbol": "NI1601.SHFE"
+    },
+    {
+      "startDate": "2016-04-12",
+      "vtSymbol": "NI1605.SHFE"
+    },
+    {
+      "startDate": "2016-08-04",
+      "vtSymbol": "NI1609.SHFE"
+    },
+    {
+      "startDate": "2016-12-01",
+      "vtSymbol": "NI1701.SHFE"
+    },
+    {
+      "startDate": "2017-04-06",
+      "vtSymbol": "NI1705.SHFE"
+    },
+    {
+      "startDate": "2017-08-08",
+      "vtSymbol": "NI1709.SHFE"
+    },
+    {
+      "startDate": "2017-11-13",
+      "vtSymbol": "NI1801.SHFE"
+    },
+    {
+      "startDate": "2018-03-08",
+      "vtSymbol": "NI1805.SHFE"
+    },
+    {
+      "startDate": "2018-06-07",
+      "vtSymbol": "NI1807.SHFE"
+    },
+    {
+      "startDate": "2018-08-02",
+      "vtSymbol": "NI1809.SHFE"
+    },
+    {
+      "startDate": "2018-10-16",
+      "vtSymbol": "NI1811.SHFE"
+    },
+    {
+      "startDate": "2018-12-11",
+      "vtSymbol": "NI1901.SHFE"
+    },
+    {
+      "startDate": "2019-04-09",
+      "vtSymbol": "NI1905.SHFE"
+    },
+    {
+      "startDate": "2019-05-16",
+      "vtSymbol": "NI1906.SHFE"
+    },
+    {
+      "startDate": "2019-06-20",
+      "vtSymbol": "NI1907.SHFE"
+    },
+    {
+      "startDate": "2019-07-23",
+      "vtSymbol": "NI1908.SHFE"
+    },
+    {
+      "startDate": "2019-08-29",
+      "vtSymbol": "NI1910.SHFE"
+    },
+    {
+      "startDate": "2019-10-15",
+      "vtSymbol": "NI1911.SHFE"
+    },
+    {
+      "startDate": "2019-11-12",
+      "vtSymbol": "NI1912.SHFE"
+    },
+    {
+      "startDate": "2019-12-23",
+      "vtSymbol": "NI2002.SHFE"
+    },
+    {
+      "startDate": "2020-01-22",
+      "vtSymbol": "NI2003.SHFE"
+    },
+    {
+      "startDate": "2020-02-26",
+      "vtSymbol": "NI2004.SHFE"
+    },
+    {
+      "startDate": "2020-04-23",
+      "vtSymbol": "NI2006.SHFE"
+    },
+    {
+      "startDate": "2020-05-26",
+      "vtSymbol": "NI2007.SHFE"
+    },
+    {
+      "startDate": "2020-06-29",
+      "vtSymbol": "NI2008.SHFE"
+    },
+    {
+      "startDate": "2020-08-19",
+      "vtSymbol": "NI2010.SHFE"
+    },
+    {
+      "startDate": "2020-09-18",
+      "vtSymbol": "NI2011.SHFE"
+    },
+    {
+      "startDate": "2020-11-03",
+      "vtSymbol": "NI2012.SHFE"
+    },
+    {
+      "startDate": "2020-12-21",
+      "vtSymbol": "NI2102.SHFE"
+    },
+    {
+      "startDate": "2021-01-27",
+      "vtSymbol": "NI2103.SHFE"
+    },
+    {
+      "startDate": "2021-03-03",
+      "vtSymbol": "NI2104.SHFE"
+    },
+    {
+      "startDate": "2021-05-25",
+      "vtSymbol": "NI2106.SHFE"
+    },
+    {
+      "startDate": "2021-06-30",
+      "vtSymbol": "NI2107.SHFE"
+    },
+    {
+      "startDate": "2021-07-28",
+      "vtSymbol": "NI2108.SHFE"
+    },
+    {
+      "startDate": "2021-08-30",
+      "vtSymbol": "NI2109.SHFE"
+    },
+    {
+      "startDate": "2021-09-27",
+      "vtSymbol": "NI2110.SHFE"
+    },
+    {
+      "startDate": "2021-10-29",
+      "vtSymbol": "NI2111.SHFE"
+    },
+    {
+      "startDate": "2021-11-24",
+      "vtSymbol": "NI2112.SHFE"
+    },
+    {
+      "startDate": "2022-01-25",
+      "vtSymbol": "NI2202.SHFE"
+    },
+    {
+      "startDate": "2022-02-23",
+      "vtSymbol": "NI2203.SHFE"
+    },
+    {
+      "startDate": "2022-03-10",
+      "vtSymbol": "NI2204.SHFE"
+    },
+    {
+      "startDate": "2022-03-11",
+      "vtSymbol": "NI2205.SHFE"
+    },
+    {
+      "startDate": "2022-03-21",
+      "vtSymbol": "NI2208.SHFE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "NI2209.SHFE"
+    },
+    {
+      "startDate": "2022-09-27",
+      "vtSymbol": "NI2210.SHFE"
+    },
+    {
+      "startDate": "2022-11-02",
+      "vtSymbol": "NI2211.SHFE"
+    },
+    {
+      "startDate": "2022-12-02",
+      "vtSymbol": "NI2212.SHFE"
+    }
+  ]
+}

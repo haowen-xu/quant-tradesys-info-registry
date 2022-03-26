@@ -1,0 +1,165 @@
+{
+  "name": "CJ次主力",
+  "mapping": [
+    {
+      "startDate": "2019-04-30",
+      "vtSymbol": "CJ2001.CZCE"
+    },
+    {
+      "startDate": "2019-11-08",
+      "vtSymbol": "CJ1912.CZCE"
+    },
+    {
+      "startDate": "2019-11-19",
+      "vtSymbol": "CJ2005.CZCE"
+    },
+    {
+      "startDate": "2019-12-06",
+      "vtSymbol": "CJ2001.CZCE"
+    },
+    {
+      "startDate": "2020-01-02",
+      "vtSymbol": "CJ2009.CZCE"
+    },
+    {
+      "startDate": "2020-04-09",
+      "vtSymbol": "CJ2005.CZCE"
+    },
+    {
+      "startDate": "2020-04-23",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-04-29",
+      "vtSymbol": "CJ2007.CZCE"
+    },
+    {
+      "startDate": "2020-04-30",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-05-06",
+      "vtSymbol": "CJ2101.CZCE"
+    },
+    {
+      "startDate": "2020-05-21",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-05-29",
+      "vtSymbol": "CJ2007.CZCE"
+    },
+    {
+      "startDate": "2020-06-01",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-06-05",
+      "vtSymbol": "CJ2101.CZCE"
+    },
+    {
+      "startDate": "2020-06-08",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-06-09",
+      "vtSymbol": "CJ2101.CZCE"
+    },
+    {
+      "startDate": "2020-07-14",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-07-16",
+      "vtSymbol": "CJ2101.CZCE"
+    },
+    {
+      "startDate": "2020-08-21",
+      "vtSymbol": "CJ2009.CZCE"
+    },
+    {
+      "startDate": "2020-09-01",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-09-24",
+      "vtSymbol": "CJ2105.CZCE"
+    },
+    {
+      "startDate": "2020-09-25",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-10-20",
+      "vtSymbol": "CJ2105.CZCE"
+    },
+    {
+      "startDate": "2020-11-02",
+      "vtSymbol": "CJ2012.CZCE"
+    },
+    {
+      "startDate": "2020-11-05",
+      "vtSymbol": "CJ2105.CZCE"
+    },
+    {
+      "startDate": "2020-12-21",
+      "vtSymbol": "CJ2101.CZCE"
+    },
+    {
+      "startDate": "2020-12-28",
+      "vtSymbol": "CJ2109.CZCE"
+    },
+    {
+      "startDate": "2021-04-13",
+      "vtSymbol": "CJ2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-26",
+      "vtSymbol": "CJ2201.CZCE"
+    },
+    {
+      "startDate": "2021-04-27",
+      "vtSymbol": "CJ2105.CZCE"
+    },
+    {
+      "startDate": "2021-04-28",
+      "vtSymbol": "CJ2201.CZCE"
+    },
+    {
+      "startDate": "2021-07-22",
+      "vtSymbol": "CJ2109.CZCE"
+    },
+    {
+      "startDate": "2021-08-24",
+      "vtSymbol": "CJ2205.CZCE"
+    },
+    {
+      "startDate": "2021-11-23",
+      "vtSymbol": "CJ2201.CZCE"
+    },
+    {
+      "startDate": "2021-12-14",
+      "vtSymbol": "CJ2209.CZCE"
+    },
+    {
+      "startDate": "2022-03-29",
+      "vtSymbol": "CJ2207.CZCE"
+    },
+    {
+      "startDate": "2022-05-05",
+      "vtSymbol": "CJ2209.CZCE"
+    },
+    {
+      "startDate": "2022-07-01",
+      "vtSymbol": "CJ2212.CZCE"
+    },
+    {
+      "startDate": "2022-09-01",
+      "vtSymbol": "CJ2301.CZCE"
+    },
+    {
+      "startDate": "2022-12-01",
+      "vtSymbol": "CJ2303.CZCE"
+    }
+  ]
+}
