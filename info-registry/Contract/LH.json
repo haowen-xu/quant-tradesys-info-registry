@@ -223,6 +223,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "LH2303.DCE",
+      "symbol": "lh2303",
+      "exchange": "DCE",
+      "product": "FUTURES",
+      "name": "生猪2303",
+      "volumeMultiple": 16.0,
+      "priceTick": 5.0,
+      "expireDate": "2023-03-28",
+      "startDeliveryDate": "0000-00-00",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "lh",
+        "exchange": "",
+        "openRatioByMoney": 0.0005,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 0.00025,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.0005,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }
