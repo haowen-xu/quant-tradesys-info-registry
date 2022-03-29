@@ -98,7 +98,7 @@
       "vtSymbol": "LH2209.DCE"
     },
     {
-      "startDate": "2022-03-30",
+      "startDate": "2022-03-31",
       "vtSymbol": "LH2207.DCE"
     },
     {
@@ -112,6 +112,10 @@
     {
       "startDate": "2022-09-14",
       "vtSymbol": "LH2301.DCE"
+    },
+    {
+      "startDate": "2022-11-14",
+      "vtSymbol": "LH2303.DCE"
     }
   ]
 }

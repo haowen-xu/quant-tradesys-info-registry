@@ -195,11 +195,15 @@
     },
     {
       "startDate": "2022-03-30",
+      "vtSymbol": "AP2205.CZCE"
+    },
+    {
+      "startDate": "2022-03-31",
       "vtSymbol": "AP2204.CZCE"
     },
     {
       "startDate": "2022-04-01",
-      "vtSymbol": "AP2210.CZCE"
+      "vtSymbol": "AP2205.CZCE"
     },
     {
       "startDate": "2022-05-05",
