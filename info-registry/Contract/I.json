@@ -353,13 +353,13 @@
       "commRate": {
         "trader": "trader/建投CTA一号",
         "vtSymbol": "",
-        "symbol": "i",
+        "symbol": "i2209",
         "exchange": "",
-        "openRatioByMoney": 0.000125,
+        "openRatioByMoney": 0.0005,
         "openRatioByVolume": 0.0,
-        "closeRatioByMoney": 0.000125,
+        "closeRatioByMoney": 0.00025,
         "closeRatioByVolume": 0.0,
-        "closeTodayRatioByMoney": 0.000125,
+        "closeTodayRatioByMoney": 0.0005,
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
