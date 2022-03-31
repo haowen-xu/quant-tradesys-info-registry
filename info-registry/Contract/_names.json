@@ -5995,8 +5995,8 @@
       "priceTick": 0.5,
       "expireDate": "2022-05-18",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.12,
-      "shortMarginRatio": 0.12,
+      "longMarginRatio": 0.15,
+      "shortMarginRatio": 0.15,
       "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
@@ -6063,8 +6063,8 @@
       "priceTick": 0.5,
       "expireDate": "2022-09-15",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.12,
-      "shortMarginRatio": 0.12,
+      "longMarginRatio": 0.15,
+      "shortMarginRatio": 0.15,
       "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
