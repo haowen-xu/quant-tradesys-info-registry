@@ -179,8 +179,8 @@
       "priceTick": 1.0,
       "expireDate": "2022-04-18",
       "startDeliveryDate": "2022-04-18",
-      "longMarginRatio": 0.1,
-      "shortMarginRatio": 0.1,
+      "longMarginRatio": 0.2,
+      "shortMarginRatio": 0.2,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
@@ -325,14 +325,14 @@
       "commRate": {
         "trader": "trader/建投CTA一号",
         "vtSymbol": "",
-        "symbol": "SA",
+        "symbol": "SA209",
         "exchange": "",
         "openRatioByMoney": 0.0,
         "openRatioByVolume": 4.38,
         "closeRatioByMoney": 0.0,
         "closeRatioByVolume": 4.38,
         "closeTodayRatioByMoney": 0.0,
-        "closeTodayRatioByVolume": 0.0
+        "closeTodayRatioByVolume": 12.5
       },
       "orderCommRate": null
     },

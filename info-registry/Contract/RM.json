@@ -235,8 +235,8 @@
       "priceTick": 1.0,
       "expireDate": "2023-01-13",
       "startDeliveryDate": "2023-01-13",
-      "longMarginRatio": 0.08,
-      "shortMarginRatio": 0.08,
+      "longMarginRatio": 0.1,
+      "shortMarginRatio": 0.1,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
@@ -263,8 +263,8 @@
       "priceTick": 1.0,
       "expireDate": "2023-03-14",
       "startDeliveryDate": "2023-03-14",
-      "longMarginRatio": 0.08,
-      "shortMarginRatio": 0.08,
+      "longMarginRatio": 0.1,
+      "shortMarginRatio": 0.1,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",

@@ -179,8 +179,8 @@
       "priceTick": 1.0,
       "expireDate": "2022-11-14",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.11000000000000001,
-      "shortMarginRatio": 0.11000000000000001,
+      "longMarginRatio": 0.12,
+      "shortMarginRatio": 0.12,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
@@ -207,8 +207,8 @@
       "priceTick": 1.0,
       "expireDate": "2023-01-17",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.11000000000000001,
-      "shortMarginRatio": 0.11000000000000001,
+      "longMarginRatio": 0.12,
+      "shortMarginRatio": 0.12,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
@@ -235,8 +235,8 @@
       "priceTick": 1.0,
       "expireDate": "2023-03-14",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.11000000000000001,
-      "shortMarginRatio": 0.11000000000000001,
+      "longMarginRatio": 0.12,
+      "shortMarginRatio": 0.12,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
