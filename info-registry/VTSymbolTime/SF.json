@@ -2,8 +2,8 @@
   "prefix": "SF",
   "items": [
     {
-      "vtSymbol": "SF1702.CZCE",
-      "lastTradeDate": "2017-02-16",
+      "vtSymbol": "SF1703.CZCE",
+      "lastTradeDate": "2017-03-14",
       "tradingTimes": [
         {
           "start": "09:00:00",
@@ -38,8 +38,8 @@
       }
     },
     {
-      "vtSymbol": "SF1703.CZCE",
-      "lastTradeDate": "2017-03-14",
+      "vtSymbol": "SF1702.CZCE",
+      "lastTradeDate": "2017-02-16",
       "tradingTimes": [
         {
           "start": "09:00:00",
