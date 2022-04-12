@@ -125,7 +125,7 @@
       "startDeliveryDate": "2022-04-18",
       "longMarginRatio": 0.15,
       "shortMarginRatio": 0.15,
-      "maxMarginSideAlgorithm": true,
+      "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
         "vtSymbol": "",

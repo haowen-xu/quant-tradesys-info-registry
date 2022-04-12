@@ -18328,6 +18328,23 @@
     },
     {
       "trader": "trader/建投CTA一号",
+      "vtSymbol": "ZC2304.CZCE",
+      "symbol": "ZC304",
+      "exchange": "CZCE",
+      "product": "FUTURES",
+      "name": "煤4月               ",
+      "volumeMultiple": 100.0,
+      "priceTick": 0.2,
+      "expireDate": "2023-04-07",
+      "startDeliveryDate": "2023-04-07",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": null,
+      "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
       "vtSymbol": "ZN2109.SHFE",
       "symbol": "zn2109",
       "exchange": "SHFE",
