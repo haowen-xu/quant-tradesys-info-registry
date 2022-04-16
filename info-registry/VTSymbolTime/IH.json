@@ -2,6 +2,38 @@
   "prefix": "IH",
   "items": [
     {
+      "vtSymbol": "IH1606.CFFEX",
+      "lastTradeDate": "2016-06-17",
+      "tradingTimes": [
+        {
+          "start": "09:30:00",
+          "end": "11:30:00"
+        },
+        {
+          "start": "13:00:00",
+          "end": "15:00:00"
+        }
+      ],
+      "barTimes": {
+        "bar_1h": [
+          "10:30:00",
+          "11:30:00",
+          "14:00:00",
+          "15:00:00"
+        ],
+        "bar_30min": [
+          "10:00:00",
+          "10:30:00",
+          "11:00:00",
+          "11:30:00",
+          "13:30:00",
+          "14:00:00",
+          "14:30:00",
+          "15:00:00"
+        ]
+      }
+    },
+    {
       "vtSymbol": "IH2205.CFFEX",
       "lastTradeDate": "2022-05-20",
       "tradingTimes": [
@@ -34,8 +66,8 @@
       }
     },
     {
-      "vtSymbol": "IH1606.CFFEX",
-      "lastTradeDate": "2016-06-17",
+      "vtSymbol": "IH2212.CFFEX",
+      "lastTradeDate": "2022-12-16",
       "tradingTimes": [
         {
           "start": "09:30:00",

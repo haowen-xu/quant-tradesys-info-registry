@@ -415,10 +415,14 @@
     },
     {
       "startDate": "2022-04-28",
-      "vtSymbol": "AU2208.SHFE"
+      "vtSymbol": "AU2207.SHFE"
     },
     {
       "startDate": "2022-06-01",
+      "vtSymbol": "AU2208.SHFE"
+    },
+    {
+      "startDate": "2022-07-04",
       "vtSymbol": "AU2210.SHFE"
     },
     {
