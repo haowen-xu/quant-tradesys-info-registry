@@ -384,6 +384,41 @@
         "orderCommByVolume": 1.0,
         "orderActionCommByVolume": 1.0
       }
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "IF2212.CFFEX",
+      "symbol": "IF2212",
+      "exchange": "CFFEX",
+      "product": "FUTURES",
+      "name": "股指2212",
+      "volumeMultiple": 300.0,
+      "priceTick": 0.2,
+      "expireDate": "2022-12-16",
+      "startDeliveryDate": "2022-12-16",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": true,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "IF",
+        "exchange": "",
+        "openRatioByMoney": 2.9249999999999996e-05,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 2.9249999999999996e-05,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.00043875000000000007,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "IF",
+        "exchange": "",
+        "orderCommByVolume": 1.0,
+        "orderActionCommByVolume": 1.0
+      }
     }
   ]
 }

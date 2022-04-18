@@ -531,6 +531,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "RB2304.SHFE",
+      "symbol": "rb2304",
+      "exchange": "SHFE",
+      "product": "FUTURES",
+      "name": "rb2304",
+      "volumeMultiple": 10.0,
+      "priceTick": 1.0,
+      "expireDate": "2023-04-17",
+      "startDeliveryDate": "2023-04-18",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": true,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "rb",
+        "exchange": "",
+        "openRatioByMoney": 0.000125,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 0.000125,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.000125,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

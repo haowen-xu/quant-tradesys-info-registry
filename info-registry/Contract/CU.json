@@ -531,6 +531,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "CU2304.SHFE",
+      "symbol": "cu2304",
+      "exchange": "SHFE",
+      "product": "FUTURES",
+      "name": "cu2304",
+      "volumeMultiple": 5.0,
+      "priceTick": 10.0,
+      "expireDate": "2023-04-17",
+      "startDeliveryDate": "2023-04-18",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": true,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "cu",
+        "exchange": "",
+        "openRatioByMoney": 6.25e-05,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 6.25e-05,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.000125,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

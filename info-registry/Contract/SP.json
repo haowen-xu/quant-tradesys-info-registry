@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "SP2304.SHFE",
+      "symbol": "sp2304",
+      "exchange": "SHFE",
+      "product": "FUTURES",
+      "name": "sp2304",
+      "volumeMultiple": 10.0,
+      "priceTick": 2.0,
+      "expireDate": "2023-04-17",
+      "startDeliveryDate": "2023-04-18",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": true,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "sp",
+        "exchange": "",
+        "openRatioByMoney": 6.25e-05,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 6.25e-05,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

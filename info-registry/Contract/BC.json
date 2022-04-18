@@ -475,6 +475,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "BC2304.INE",
+      "symbol": "bc2304",
+      "exchange": "INE",
+      "product": "FUTURES",
+      "name": "bc2304",
+      "volumeMultiple": 5.0,
+      "priceTick": 10.0,
+      "expireDate": "2023-04-17",
+      "startDeliveryDate": "2023-04-18",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": true,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "bc",
+        "exchange": "",
+        "openRatioByMoney": 1.25e-05,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 1.25e-05,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }
