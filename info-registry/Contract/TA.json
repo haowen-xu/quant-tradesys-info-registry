@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "TA2304.CZCE",
+      "symbol": "TA304",
+      "exchange": "CZCE",
+      "product": "FUTURES",
+      "name": "PTA4月              ",
+      "volumeMultiple": 5.0,
+      "priceTick": 2.0,
+      "expireDate": "2023-04-14",
+      "startDeliveryDate": "2023-04-14",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "TA",
+        "exchange": "",
+        "openRatioByMoney": 0.0,
+        "openRatioByVolume": 3.75,
+        "closeRatioByMoney": 0.0,
+        "closeRatioByVolume": 3.75,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

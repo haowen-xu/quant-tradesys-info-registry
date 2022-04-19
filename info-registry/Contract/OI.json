@@ -157,14 +157,14 @@
       "commRate": {
         "trader": "trader/建投CTA一号",
         "vtSymbol": "",
-        "symbol": "OI",
+        "symbol": "OI209",
         "exchange": "",
         "openRatioByMoney": 0.0,
-        "openRatioByVolume": 2.5,
+        "openRatioByVolume": 7.5,
         "closeRatioByMoney": 0.0,
-        "closeRatioByVolume": 2.5,
+        "closeRatioByVolume": 7.5,
         "closeTodayRatioByMoney": 0.0,
-        "closeTodayRatioByVolume": 2.5
+        "closeTodayRatioByVolume": 7.5
       },
       "orderCommRate": null
     },

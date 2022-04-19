@@ -307,6 +307,34 @@
         "closeTodayRatioByVolume": 5.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "PK2304.CZCE",
+      "symbol": "PK304",
+      "exchange": "CZCE",
+      "product": "FUTURES",
+      "name": "花生4月             ",
+      "volumeMultiple": 5.0,
+      "priceTick": 2.0,
+      "expireDate": "2023-04-14",
+      "startDeliveryDate": "2023-04-14",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "PK",
+        "exchange": "",
+        "openRatioByMoney": 0.0,
+        "openRatioByVolume": 5.0,
+        "closeRatioByMoney": 0.0,
+        "closeRatioByVolume": 5.0,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 5.0
+      },
+      "orderCommRate": null
     }
   ]
 }

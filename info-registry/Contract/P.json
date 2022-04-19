@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 3.13
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "P2304.DCE",
+      "symbol": "p2304",
+      "exchange": "DCE",
+      "product": "FUTURES",
+      "name": "棕榈油2304",
+      "volumeMultiple": 10.0,
+      "priceTick": 2.0,
+      "expireDate": "2023-04-19",
+      "startDeliveryDate": "0000-00-00",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "p",
+        "exchange": "",
+        "openRatioByMoney": 0.0,
+        "openRatioByVolume": 3.13,
+        "closeRatioByMoney": 0.0,
+        "closeRatioByVolume": 3.13,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 3.13
+      },
+      "orderCommRate": null
     }
   ]
 }

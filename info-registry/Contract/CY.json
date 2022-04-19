@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "CY2304.CZCE",
+      "symbol": "CY304",
+      "exchange": "CZCE",
+      "product": "FUTURES",
+      "name": "棉纱4月             ",
+      "volumeMultiple": 5.0,
+      "priceTick": 5.0,
+      "expireDate": "2023-04-14",
+      "startDeliveryDate": "2023-04-14",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "CY",
+        "exchange": "",
+        "openRatioByMoney": 0.0,
+        "openRatioByVolume": 5.0,
+        "closeRatioByMoney": 0.0,
+        "closeRatioByVolume": 5.0,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

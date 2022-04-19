@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "J2304.DCE",
+      "symbol": "j2304",
+      "exchange": "DCE",
+      "product": "FUTURES",
+      "name": "焦炭2304",
+      "volumeMultiple": 100.0,
+      "priceTick": 0.5,
+      "expireDate": "2023-04-19",
+      "startDeliveryDate": "0000-00-00",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "j",
+        "exchange": "",
+        "openRatioByMoney": 0.0002,
+        "openRatioByVolume": 0.0,
+        "closeRatioByMoney": 0.00014399999999999998,
+        "closeRatioByVolume": 0.0,
+        "closeTodayRatioByMoney": 0.0002,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

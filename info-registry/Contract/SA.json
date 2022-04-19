@@ -503,6 +503,34 @@
         "closeTodayRatioByVolume": 0.0
       },
       "orderCommRate": null
+    },
+    {
+      "trader": "trader/建投CTA一号",
+      "vtSymbol": "SA2304.CZCE",
+      "symbol": "SA304",
+      "exchange": "CZCE",
+      "product": "FUTURES",
+      "name": "纯碱4月             ",
+      "volumeMultiple": 20.0,
+      "priceTick": 1.0,
+      "expireDate": "2023-04-14",
+      "startDeliveryDate": "2023-04-14",
+      "longMarginRatio": 0.0,
+      "shortMarginRatio": 0.0,
+      "maxMarginSideAlgorithm": false,
+      "commRate": {
+        "trader": "trader/建投CTA一号",
+        "vtSymbol": "",
+        "symbol": "SA",
+        "exchange": "",
+        "openRatioByMoney": 0.0,
+        "openRatioByVolume": 4.38,
+        "closeRatioByMoney": 0.0,
+        "closeRatioByVolume": 4.38,
+        "closeTodayRatioByMoney": 0.0,
+        "closeTodayRatioByVolume": 0.0
+      },
+      "orderCommRate": null
     }
   ]
 }

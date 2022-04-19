@@ -263,8 +263,8 @@
       "priceTick": 0.02,
       "expireDate": "2022-07-15",
       "startDeliveryDate": "2022-07-18",
-      "longMarginRatio": 0.0,
-      "shortMarginRatio": 0.0,
+      "longMarginRatio": 0.1,
+      "shortMarginRatio": 0.1,
       "maxMarginSideAlgorithm": true,
       "commRate": {
         "trader": "trader/建投CTA一号",
