@@ -4510,8 +4510,8 @@
       }
     },
     {
-      "vtSymbol": "BU2403.SHFE",
-      "lastTradeDate": "2024-03-15",
+      "vtSymbol": "BU2301.SHFE",
+      "lastTradeDate": "2023-01-16",
       "tradingTimes": [
         {
           "start": "09:00:00",
@@ -4556,8 +4556,8 @@
       }
     },
     {
-      "vtSymbol": "BU2301.SHFE",
-      "lastTradeDate": "2023-01-16",
+      "vtSymbol": "BU2403.SHFE",
+      "lastTradeDate": "2024-03-15",
       "tradingTimes": [
         {
           "start": "09:00:00",
