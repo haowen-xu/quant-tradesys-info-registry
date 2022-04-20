@@ -515,8 +515,8 @@
       "priceTick": 2.0,
       "expireDate": "2023-04-19",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.0,
-      "shortMarginRatio": 0.0,
+      "longMarginRatio": 0.11000000000000001,
+      "shortMarginRatio": 0.11000000000000001,
       "maxMarginSideAlgorithm": false,
       "commRate": {
         "trader": "trader/建投CTA一号",
