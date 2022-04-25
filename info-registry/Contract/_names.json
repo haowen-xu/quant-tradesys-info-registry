@@ -5555,7 +5555,7 @@
       "startDeliveryDate": "2022-05-05",
       "longMarginRatio": 0.15,
       "shortMarginRatio": 0.15,
-      "maxMarginSideAlgorithm": true,
+      "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
     },
@@ -7525,8 +7525,8 @@
       "priceTick": 1.0,
       "expireDate": "2022-05-26",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.09,
-      "shortMarginRatio": 0.09,
+      "longMarginRatio": 0.1,
+      "shortMarginRatio": 0.1,
       "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
@@ -8989,7 +8989,7 @@
       "startDeliveryDate": "2022-05-05",
       "longMarginRatio": 0.15,
       "shortMarginRatio": 0.15,
-      "maxMarginSideAlgorithm": true,
+      "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
     },
@@ -13458,8 +13458,8 @@
       "priceTick": 1.0,
       "expireDate": "2022-05-18",
       "startDeliveryDate": "0000-00-00",
-      "longMarginRatio": 0.06,
-      "shortMarginRatio": 0.06,
+      "longMarginRatio": 0.1,
+      "shortMarginRatio": 0.1,
       "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
@@ -14463,7 +14463,7 @@
       "startDeliveryDate": "2022-05-05",
       "longMarginRatio": 0.15,
       "shortMarginRatio": 0.15,
-      "maxMarginSideAlgorithm": true,
+      "maxMarginSideAlgorithm": false,
       "commRate": null,
       "orderCommRate": null
     },
