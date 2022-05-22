@@ -500,6 +500,14 @@
     {
       "startDate": "2022-05-19",
       "vtSymbol": "IF2209.CFFEX"
+    },
+    {
+      "startDate": "2022-05-24",
+      "vtSymbol": "IF2207.CFFEX"
+    },
+    {
+      "startDate": "2022-06-16",
+      "vtSymbol": "IF2209.CFFEX"
     }
   ]
 }

@@ -496,6 +496,14 @@
     {
       "startDate": "2022-05-19",
       "vtSymbol": "IC2209.CFFEX"
+    },
+    {
+      "startDate": "2022-05-24",
+      "vtSymbol": "IC2207.CFFEX"
+    },
+    {
+      "startDate": "2022-06-16",
+      "vtSymbol": "IC2209.CFFEX"
     }
   ]
 }

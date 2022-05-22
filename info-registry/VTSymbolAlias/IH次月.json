@@ -343,6 +343,10 @@
     },
     {
       "startDate": "2022-05-19",
+      "vtSymbol": "IH2207.CFFEX"
+    },
+    {
+      "startDate": "2022-06-16",
       "vtSymbol": "IH2209.CFFEX"
     }
   ]

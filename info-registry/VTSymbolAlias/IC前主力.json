@@ -340,6 +340,10 @@
     {
       "startDate": "2022-05-19",
       "vtSymbol": "IC2205.CFFEX"
+    },
+    {
+      "startDate": "2022-06-16",
+      "vtSymbol": "IC2206.CFFEX"
     }
   ]
 }

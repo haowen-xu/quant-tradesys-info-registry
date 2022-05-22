@@ -360,6 +360,10 @@
     {
       "startDate": "2022-05-19",
       "vtSymbol": "IF2206.CFFEX"
+    },
+    {
+      "startDate": "2022-06-16",
+      "vtSymbol": "IF2207.CFFEX"
     }
   ]
 }
